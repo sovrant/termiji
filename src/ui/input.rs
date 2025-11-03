@@ -1,6 +1,5 @@
-use crate::emoji::Emoji;
 use crossterm::event::{Event, KeyCode};
-use std::{collections::HashMap};
+use std::io;
 use terminal_size::{Width, Height, terminal_size};
 
 pub struct Input {
@@ -8,7 +7,6 @@ pub struct Input {
     cur_position: u32,
     start_point: u16,
     end_point: u16,
-    cur_category: usize,
     exit: bool,
 }
 
@@ -27,7 +25,6 @@ impl Input {
             cur_position: 0,
             start_point: 0,
             end_point: height,
-            cur_category: 0,
             exit: false,
         }
     }
@@ -55,37 +52,20 @@ impl Input {
     pub fn get_end_point(&self) -> u16 {
         self.end_point
     }
-    
-    pub fn get_cur_category(&self) -> usize {
-        self.cur_category
-    }
 
-    //THIS SHIT doesn't make sense and it will not work FIX THIS
     pub fn set_new_end_point(&mut self) {
         let size = terminal_size();
         if let Some((Width(_w), Height(h))) = size && h != self.end_point {
-            self.end_point = self.start_point + h;
+            self.end_point = h;
         }
     }
 }
 
-pub fn start_input(event: Event, all_categories: &Vec<String>, mut input: Input, emojis_hash: &HashMap<String, Vec<Emoji>>) -> Input {
-    if event == Event::Key((KeyCode::Up).into()) {
-        if input.get_start_point() == 0 {
-            let size = terminal_size();
-            let height: u16;
-            if let Some((Width(_w), Height(h))) = size {
-                height = h;
-            } else {
-                panic!("Something went wrong, trying to access terminal size");
-            }
-
-            input.start_point = emojis_hash.get(&all_categories[input.get_cur_category()])
-                .iter().len()
-                .saturating_sub(height.into()).try_into().unwrap();
-        }
+pub fn start_input(event: Event, mut input: Input) -> Input {
+    if event == Event::Key(KeyCode::).into()) {
+        println!("you've pressed a special letter \"e\"\r");
     } else if let Event::Key(key_event) = event {
-        println!("you've press \"{}\"\r", key_event.code);
+        
     }
 
     if event == Event::Key(KeyCode::Esc.into()) {

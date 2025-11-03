@@ -1,4 +1,6 @@
+mod input;
 mod emoji;
+mod ui;
 use std::fs::File;
 use simple_home_dir::*;
 use std::io::ErrorKind;
@@ -22,6 +24,18 @@ fn main() {
     };
     
     let emojis_hash = emoji::extract_emoji(path);
+    let mut all_categories: Vec<String> = Vec::new();
+
+    for key in emojis_hash.keys() {
+        if !all_categories.contains(key) {
+            all_categories.push(key.clone());
+        }
+    }
+
+    all_categories.sort();
+    for category in all_categories {
+        println!("{}", category);
+    }
 
     // for (category, emojis) in emojis_hash {
     //     println!("Category: {}", category);
