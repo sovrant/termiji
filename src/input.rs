@@ -6,6 +6,7 @@ use terminal_size::{Width, Height, terminal_size};
 pub struct Input {
     buffer: String,
     cur_position: u32,
+    matched_emojis: Vec<Emoji>,
     start_point: u16,
     end_point: u16,
     cur_category: usize,
@@ -25,6 +26,7 @@ impl Input {
         Input {
             buffer: String::new(),
             cur_position: 0,
+            matched_emojis: Vec::new(),
             start_point: 0,
             end_point: height,
             cur_category: 0,
@@ -100,6 +102,18 @@ impl Input {
             self.buffer.remove(self.buffer.len() - 1);
         }
     }
+
+    pub fn add_to_matched(&mut self, emoji: Emoji) {
+        self.matched_emojis.push(emoji);
+    }
+
+    pub fn get_matched(&self) -> &Vec<Emoji> {
+        &self.matched_emojis
+    }
+
+    pub fn clear_matched(&mut self) {
+        self.matched_emojis.clear();
+    }
 }
 
 pub fn start_input(event: Event, all_categories: [&str; 10], mut input: Input, emojis_hash: &HashMap<String, Vec<Emoji>>) -> Input {
@@ -120,6 +134,9 @@ pub fn start_input(event: Event, all_categories: [&str; 10], mut input: Input, e
             KeyCode::Enter => {
                 //TODO!
             },
+            KeyCode::Esc => {
+                input.exit();
+            }
             KeyCode::Char(c) => {
                 if c.is_whitespace() {
                     input.add_to_buffer(' ');
@@ -130,11 +147,16 @@ pub fn start_input(event: Event, all_categories: [&str; 10], mut input: Input, e
             _ => {},
 
         }
+
+        let selected_category = emojis_hash.get(all_categories[input.cur_category]).unwrap();
+
+        input.clear_matched();
+        for emoji in selected_category {
+            if emoji.get_slug().contains(input.get_buffer()) {
+                input.add_to_matched(emoji.clone());
+            }
+        }
     }
 
-    if event == Event::Key(KeyCode::Esc.into()) {
-        input.exit();
-    }
-    
    input 
 }

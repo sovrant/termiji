@@ -3,7 +3,7 @@ use std::{collections::HashMap};
 use crate::{emoji::Emoji, ui::input::Input};
 use std::io::{self, stdout};
 use crossterm::event::{EventStream};
-use crossterm::{execute, terminal::{Clear, ClearType}, cursor::MoveTo};
+use crossterm::{execute, terminal::{Clear, ClearType}, cursor::{MoveTo, Hide, Show}};
 use futures::{future::FutureExt, StreamExt};
 use futures_timer::Delay;
 use std::time::Duration;
@@ -21,14 +21,31 @@ pub async fn start_ui(emojis_hash: HashMap<String, Vec<Emoji>>, all_categories: 
             _ = delay => { 
                 input.set_new_end_point();
                 execute!(stdout(), MoveTo(0, 0))?;
-                execute!(stdout(), Clear(ClearType::All))?;
+                execute!(stdout(), Clear(ClearType::All), Hide)?;
                 print!("Search: {}\r", input.get_buffer());
                 println!();
+                print!("Category: {}\r", all_categories[input.get_cur_category()]);
+                println!();
+                
+                let mut cur_cat: &Vec<Emoji> = emojis_hash.get(all_categories[input.get_cur_category()]).unwrap();
 
-                let cur_cat = emojis_hash.get(all_categories[input.get_cur_category()]).unwrap();
+                if !input.get_buffer().is_empty() {
+                    cur_cat = input.get_matched();
+                } 
 
-                for pos in input.get_start_point()..input.get_end_point() - 2 {
-                    println!("{}\r", cur_cat[pos as usize].get_emoji());
+                if cur_cat.len() > input.get_end_point().into() {
+                    for pos in input.get_start_point()..input.get_end_point().saturating_sub(3) {
+                        println!("{}\r", cur_cat[pos as usize].get_emoji());
+                    }
+                } else if cur_cat.len() == input.get_end_point() as usize {
+                    #[allow(clippy::needless_range_loop)]
+                    for pos in input.get_start_point().into()..cur_cat.len().saturating_sub(3){
+                        println!("{}\r", cur_cat[pos].get_emoji());
+                    }
+                } else {
+                    for pos in cur_cat {
+                        println!("{}\r", pos.get_emoji());
+                    }
                 }
 
             },
@@ -48,5 +65,6 @@ pub async fn start_ui(emojis_hash: HashMap<String, Vec<Emoji>>, all_categories: 
         }
     }
 
+    execute!(stdout(), Clear(ClearType::All), Show)?;
     Ok(())
 }
