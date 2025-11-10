@@ -2,6 +2,7 @@ mod input;
 mod emoji;
 mod ui;
 use std::{fs::File, io::Error};
+use crate::input::Arrow;
 use crossterm::terminal::{disable_raw_mode, enable_raw_mode};
 use simple_home_dir::*;
 use std::io::ErrorKind;
@@ -33,10 +34,11 @@ async fn main() -> Result<(), Error>{
 
 
     let input = Input::new();
+    let arrow = Arrow::new();
 
     enable_raw_mode()?;
 
-    start_ui(emojis_hash, all_categories, input).await?;
+    start_ui(emojis_hash, all_categories, input, arrow).await?;
 
     disable_raw_mode()
 }
