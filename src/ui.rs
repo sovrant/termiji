@@ -29,43 +29,33 @@ pub async fn start_ui(emojis_hash: HashMap<String, Vec<Emoji>>, all_categories: 
                 print!("Category: {}\r", all_categories[arrow.get_cur_category()]);
                 println!();
                 
+                #[allow(unused)]
                 let mut cur_cat = input.get_matched();
 
                 if input.get_buffer().is_empty() && input.get_matched().is_empty() {
                    cur_cat = emojis_hash.get(all_categories[arrow.get_cur_category()]).unwrap();
+                } else {
+                    cur_cat = input.get_matched();
                 }
 
-                    //FIX THIS SHIT I DONT EVEN KNOW WHAT IS WRONG
                 if cur_cat.len() > arrow.get_end_point().into() {
-                    for pos in arrow.get_start_point()..arrow.get_end_point().saturating_sub(3) {
+                    for pos in arrow.get_start_point()..arrow.get_end_point() {
                         if pos as u32 == arrow.get_cur_pos() {
-                            println!("{} <==\r", cur_cat[pos as usize].get_emoji());
+                            println!("{} ({}) <==\r", cur_cat[pos as usize].get_emoji(), cur_cat[pos as usize].get_slug());
                         } else {
-                            println!("{}\r", cur_cat[pos as usize].get_emoji());
+                            println!("{} ({})\r", cur_cat[pos as usize].get_emoji(), cur_cat[pos as usize].get_slug());
                         }
                     }
-                    //FIX THIS SHIT I DONT EVEN KNOW WHAT IS WRONG
-                } else if cur_cat.len() == arrow.get_end_point() as usize {
+                } else if cur_cat.len() <= arrow.get_end_point() as usize {
                     #[allow(clippy::needless_range_loop)]
-                    for pos in arrow.get_start_point().saturating_add(3).into()..cur_cat.len(){
+                    for pos in arrow.get_start_point().into()..cur_cat.len(){
                         if pos as u32 == arrow.get_cur_pos() {
-                            println!("{} <==\r", cur_cat[pos].get_emoji());
+                            println!("{} ({}) <==\r", cur_cat[pos].get_emoji(), cur_cat[pos].get_slug());
                         } else {
-                            println!("{}\r", cur_cat[pos].get_emoji());
+                            println!("{} ({})\r", cur_cat[pos].get_emoji(), cur_cat[pos].get_slug());
                         }
                     }
-                    //FIX THIS SHIT I DONT EVEN KNOW WHAT IS WRONG
-                } else {
-                    for (i, pos) in cur_cat.iter().enumerate() {
-                        if i == arrow.get_cur_pos() as usize {
-                            println!("{} <==\r", pos.get_emoji());
-                        } else {
-                            println!("{}\r", pos.get_emoji());
-                            println!("{}\r", cur_cat.len());
-                            println!("{}\r", arrow.get_end_point());
-                        }
-                    }
-                }
+                } 
 
             },
             maybe_event = event => {

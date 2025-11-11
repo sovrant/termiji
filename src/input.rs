@@ -127,6 +127,8 @@ impl Arrow {
         if let Some((Width(_w), Height(h))) = size {
             self.end_point = self.get_start_point() + h;
         }
+
+        self.end_point -= 3;
     }
 
     pub fn get_cur_pos(&self) -> u32 {
@@ -150,8 +152,9 @@ pub fn start_input(event: Event, all_categories: [&str; 10], mut input: Input,
                 if arrow.get_cur_pos() == (input.get_matched().len().saturating_sub(1)) as u32 && !input.get_matched().is_empty() {
                     arrow.cur_position = 0;
                     arrow.start_point = 0;
-                } else if arrow.get_cur_pos() == arrow.get_end_point().saturating_sub(4) as u32 
-                    && arrow.get_cur_pos() != (input.get_matched().len().saturating_sub(1)) as u32 {
+                } else if arrow.get_cur_pos() == arrow.get_end_point().saturating_sub(1) as u32 
+                    && arrow.get_cur_pos() != (input.get_matched().len().saturating_sub(1)) as u32
+                    && arrow.get_end_point() != (input.get_matched().len() as u16) {
                         arrow.increment_pos();
                         arrow.increment_start_point();
                 } else {
@@ -164,12 +167,11 @@ pub fn start_input(event: Event, all_categories: [&str; 10], mut input: Input,
                     arrow.decrement_pos();
                 } else if arrow.get_cur_pos() == 0 && !input.get_matched().is_empty() {
                     arrow.cur_position = (input.get_matched().len().saturating_sub(1)) as u32;
-                    arrow.start_point = (arrow.get_cur_pos() as u16).saturating_sub(arrow.get_end_point());
+                    arrow.start_point = (arrow.get_cur_pos() as u16).saturating_sub(arrow.get_end_point() - 1);
                 } else if arrow.get_cur_pos() == 0 && input.get_matched().is_empty() {
                     arrow.cur_position = emojis_hash.get(all_categories[arrow.get_cur_category()]).unwrap().
                         iter().len().saturating_sub(1) as u32;
-                    // arrow.start_point = 5;
-                    arrow.start_point = (arrow.get_cur_pos() as u16).saturating_sub(arrow.get_end_point());
+                    arrow.start_point = (arrow.get_cur_pos() as u16).saturating_sub(arrow.get_end_point() - 1);
                 } else {
                     arrow.decrement_pos();
                 }
@@ -182,6 +184,8 @@ pub fn start_input(event: Event, all_categories: [&str; 10], mut input: Input,
             },
             KeyCode::Backspace => {
                 input.pop_buffer();
+                arrow.cur_position = 0;
+                arrow.start_point = 0;
             },
             KeyCode::Enter => {
                 //TODO!
@@ -192,8 +196,12 @@ pub fn start_input(event: Event, all_categories: [&str; 10], mut input: Input,
             KeyCode::Char(c) => {
                 if c.is_whitespace() {
                     input.add_to_buffer(' ');
+                    arrow.cur_position = 0;
+                    arrow.start_point = 0;
                 } else if c.is_ascii_graphic() {
                     input.add_to_buffer(c);
+                    arrow.cur_position = 0;
+                    arrow.start_point = 0;
                 }
             },
             _ => {},
