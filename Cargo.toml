@@ -13,3 +13,4 @@ simple-home-dir = "0.1.4"
 serde = { version = "1.0.219", features = ["derive"] }
 terminal_size = "0.4.3"
 cli-clipboard = "0.4.0"
+color-print = "0.3.7"

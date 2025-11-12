@@ -7,6 +7,7 @@ use crossterm::{execute, terminal::{Clear, ClearType}, cursor::{MoveTo, Hide, Sh
 use futures::{future::FutureExt, StreamExt};
 use futures_timer::Delay;
 use std::time::Duration;
+use color_print::cprint;
 
 fn print_right_side_wall(width: u16) {
     execute!(stdout(), MoveToColumn(width)).unwrap();
@@ -17,8 +18,8 @@ fn print_right_side_wall(width: u16) {
 fn print_header(width: u16) {
     print!("┌");
     let mut loop_skip = 0;
-    for i in 0..width - 1 {
-        if i <= (width / 2) - 6 || i >= (width / 2) + 5 {
+    for i in 0..width.saturating_sub(2) {
+        if i <= (width / 2).saturating_sub(6) || i >= (width / 2).saturating_add(4) {
             print!("─");
         } else if loop_skip == 0 {
             print!(" Termiji ");
@@ -30,8 +31,14 @@ fn print_header(width: u16) {
 
 fn print_ender(width: u16) {
     print!("└");
-    for _i in 0..width - 2 {
-        print!("─")
+    let mut loop_skip = 0;
+    for i in 0..width.saturating_sub(2) {
+        if i <= (width / 2).saturating_sub(23) || i >= (width / 2).saturating_add(21) {
+            print!("─")
+        } else if loop_skip == 0 {
+            cprint!(" Scr <c><<U/D>></> Cate <c><<L/R>></> Copy <c><<CR>></> Quit <c><<Esc>></> ");
+            loop_skip = 1;
+        }
     }
     print!("┘");
     println!("\r")
@@ -80,7 +87,7 @@ pub async fn start_ui(emojis_hash: HashMap<String, Vec<Emoji>>, all_categories: 
                             print_right_side_wall(arrow.get_width());
                         }
                     }
-                } else if cur_cat.len() <= arrow.get_end_point() as usize {
+                } else if cur_cat.len() == arrow.get_end_point() as usize {
                     #[allow(clippy::needless_range_loop)]
                     for pos in arrow.get_start_point().into()..cur_cat.len(){
                         if pos as u32 == arrow.get_cur_pos() && input.get_copied() {
@@ -94,7 +101,25 @@ pub async fn start_ui(emojis_hash: HashMap<String, Vec<Emoji>>, all_categories: 
                             print_right_side_wall(arrow.get_width());
                         }
                     }
-                } 
+                } else if cur_cat.len() < arrow.get_end_point() as usize { 
+                    #[allow(clippy::needless_range_loop)]
+                    for pos in arrow.get_start_point().into()..cur_cat.len(){
+                        if pos as u32 == arrow.get_cur_pos() && input.get_copied() {
+                            print!("│ {} ({}) <== (copied)", cur_cat[pos].get_emoji(), cur_cat[pos].get_slug());
+                            print_right_side_wall(arrow.get_width());
+                        } else if pos as u32 == arrow.get_cur_pos() {
+                            print!("│ {} ({}) <==", cur_cat[pos].get_emoji(), cur_cat[pos].get_slug());
+                            print_right_side_wall(arrow.get_width());
+                        } else {
+                            print!("│ {} ({})", cur_cat[pos].get_emoji(), cur_cat[pos].get_slug());
+                            print_right_side_wall(arrow.get_width());
+                        }
+                    }
+                    for _i in cur_cat.len()..arrow.get_end_point() as usize {
+                            print!("│");
+                            print_right_side_wall(arrow.get_width());
+                    }
+                }
 
                 print_ender(arrow.get_width());
             },
