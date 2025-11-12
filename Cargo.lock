@@ -64,7 +64,6 @@ dependencies = [
 ]
 
 [[package]]
-<<<<<<< HEAD
 name = "color-print"
 version = "0.3.7"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -748,8 +747,6 @@ version = "0.1.0"
 dependencies = [
  "cli-clipboard",
  "color-print",
-=======
->>>>>>> 2654f84c3af3a2c6e0ccdc45ca542a16098162f4
  "crossterm",
  "futures",
  "futures-timer",
