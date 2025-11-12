@@ -18,9 +18,9 @@ impl Emoji {
         &self.slug
     }
 
-    pub fn get_group(&self) -> &str {
-        &self.group
-    }
+    // pub fn get_group(&self) -> &str {
+    //     &self.group
+    // }
 }
 
 pub fn extract_emoji(mut path: File) -> HashMap<String, Vec<Emoji>> {
