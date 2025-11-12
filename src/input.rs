@@ -2,11 +2,13 @@ use crate::emoji::Emoji;
 use crossterm::event::{Event, KeyCode};
 use std::{collections::HashMap};
 use terminal_size::{Width, Height, terminal_size};
+use cli_clipboard::{ClipboardContext, ClipboardProvider};
 
 pub struct Input {
     buffer: String,
     matched_emojis: Vec<Emoji>,
     exit: bool,
+    copy: bool,
 }
 
 pub struct Arrow {
@@ -14,6 +16,7 @@ pub struct Arrow {
     start_point: u16,
     end_point: u16,
     cur_category: usize,
+    width: u16,
 }
 
 impl Input {
@@ -22,6 +25,7 @@ impl Input {
             buffer: String::new(),
             matched_emojis: Vec::new(),
             exit: false,
+            copy: false,
         }
     }
 
@@ -32,7 +36,6 @@ impl Input {
     pub fn get_exit_status(&self) -> bool {
         self.exit
     }
-
 
     pub fn get_buffer(&self) -> &String {
         &self.buffer
@@ -59,15 +62,21 @@ impl Input {
     pub fn clear_matched(&mut self) {
         self.matched_emojis.clear();
     }
+
+    pub fn get_copied(&self) -> bool {
+        self.copy
+    }
 }
 
 impl Arrow {
     pub fn new() -> Arrow {
         let terminal_size = terminal_size();
         let height: u16;
+        let width: u16;
 
-        if let Some((Width(_w), Height(h))) = terminal_size {
+        if let Some((Width(w), Height(h))) = terminal_size {
             height = h;
+            width = w;
         } else {
             panic!("Something went wrong trying to get terminal size")
         }
@@ -77,6 +86,7 @@ impl Arrow {
             start_point: 0,
             end_point: height,
             cur_category: 0,
+            width,
        }
     }
 
@@ -117,6 +127,10 @@ impl Arrow {
     pub fn get_end_point(&self) -> u16 {
         self.end_point
     }
+
+    pub fn get_width(&self) -> u16 {
+        self.width
+    }
     
     pub fn get_cur_category(&self) -> usize {
         self.cur_category
@@ -124,11 +138,12 @@ impl Arrow {
 
     pub fn set_new_end_point(&mut self) {
         let size = terminal_size();
-        if let Some((Width(_w), Height(h))) = size {
+        if let Some((Width(w), Height(h))) = size {
             self.end_point = self.get_start_point() + h;
+            self.width = w;
         }
 
-        self.end_point -= 3;
+        self.end_point = self.end_point.saturating_sub(5);
     }
 
     pub fn get_cur_pos(&self) -> u32 {
@@ -146,6 +161,8 @@ impl Arrow {
 
 pub fn start_input(event: Event, all_categories: [&str; 10], mut input: Input,
     emojis_hash: &HashMap<String, Vec<Emoji>>, mut arrow: Arrow) -> (Input, Arrow) {
+    input.copy = false;
+
     if let Event::Key(key_event) = event {
         match key_event.code {
             KeyCode::Down => {
@@ -188,7 +205,17 @@ pub fn start_input(event: Event, all_categories: [&str; 10], mut input: Input,
                 arrow.start_point = 0;
             },
             KeyCode::Enter => {
-                //TODO!
+                let mut ctx = ClipboardContext::new().unwrap();
+                let mut emoji_vec = input.get_matched();                
+
+                if input.get_matched().is_empty() {
+                    emoji_vec = emojis_hash.get(all_categories[arrow.get_cur_category()]).unwrap();
+                } 
+
+                let emoji = emoji_vec[arrow.get_cur_pos() as usize].get_emoji();
+                ctx.set_contents(emoji.to_string()).unwrap();
+
+                input.copy = true;
             },
             KeyCode::Esc => {
                 input.exit();
