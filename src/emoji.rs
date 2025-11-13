@@ -1,4 +1,3 @@
-use std::{fs::File, io::Read};
 use std::collections::HashMap;
 use serde::Deserialize;
 
@@ -17,16 +16,10 @@ impl Emoji {
     pub fn get_slug(&self) -> &str {
         &self.slug
     }
-
-    // pub fn get_group(&self) -> &str {
-    //     &self.group
-    // }
 }
 
-pub fn extract_emoji(mut path: File) -> HashMap<String, Vec<Emoji>> {
-    let mut data = String::new();
-    path.read_to_string(&mut data).unwrap();
-    let mut emojis: Vec<Emoji> = serde_json::from_str(&data).unwrap();
+pub fn extract_emoji(path: &str) -> HashMap<String, Vec<Emoji>> {
+    let mut emojis: Vec<Emoji> = serde_json::from_str(path).unwrap();
 
     let mut emoji_categories = HashMap::new();
 

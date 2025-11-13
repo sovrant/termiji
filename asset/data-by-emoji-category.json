@@ -1,0 +1,9532 @@
+[
+  {
+    "emoji": "😀",
+    "slug": "grinning_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😃",
+    "slug": "grinning_face_with_big_eyes",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😄",
+    "slug": "grinning_face_with_smiling_eyes",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😁",
+    "slug": "beaming_face_with_smiling_eyes",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😆",
+    "slug": "grinning_squinting_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😅",
+    "slug": "grinning_face_with_sweat",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤣",
+    "slug": "rolling_on_the_floor_laughing",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😂",
+    "slug": "face_with_tears_of_joy",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🙂",
+    "slug": "slightly_smiling_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🙃",
+    "slug": "upside_down_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🫠",
+    "slug": "melting_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😉",
+    "slug": "winking_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😊",
+    "slug": "smiling_face_with_smiling_eyes",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😇",
+    "slug": "smiling_face_with_halo",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🥰",
+    "slug": "smiling_face_with_hearts",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😍",
+    "slug": "smiling_face_with_heart_eyes",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤩",
+    "slug": "star_struck",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😘",
+    "slug": "face_blowing_a_kiss",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😗",
+    "slug": "kissing_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "☺️",
+    "slug": "smiling_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😚",
+    "slug": "kissing_face_with_closed_eyes",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😙",
+    "slug": "kissing_face_with_smiling_eyes",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🥲",
+    "slug": "smiling_face_with_tear",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😋",
+    "slug": "face_savoring_food",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😛",
+    "slug": "face_with_tongue",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😜",
+    "slug": "winking_face_with_tongue",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤪",
+    "slug": "zany_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😝",
+    "slug": "squinting_face_with_tongue",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤑",
+    "slug": "money_mouth_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤗",
+    "slug": "smiling_face_with_open_hands",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤭",
+    "slug": "face_with_hand_over_mouth",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🫢",
+    "slug": "face_with_open_eyes_and_hand_over_mouth",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🫣",
+    "slug": "face_with_peeking_eye",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤫",
+    "slug": "shushing_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤔",
+    "slug": "thinking_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🫡",
+    "slug": "saluting_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤐",
+    "slug": "zipper_mouth_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤨",
+    "slug": "face_with_raised_eyebrow",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😐",
+    "slug": "neutral_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😑",
+    "slug": "expressionless_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😶",
+    "slug": "face_without_mouth",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🫥",
+    "slug": "dotted_line_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😶‍🌫️",
+    "slug": "face_in_clouds",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😏",
+    "slug": "smirking_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😒",
+    "slug": "unamused_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🙄",
+    "slug": "face_with_rolling_eyes",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😬",
+    "slug": "grimacing_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😮‍💨",
+    "slug": "face_exhaling",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤥",
+    "slug": "lying_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🫨",
+    "slug": "shaking_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🙂‍↔️",
+    "slug": "head_shaking_horizontally",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🙂‍↕️",
+    "slug": "head_shaking_vertically",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😌",
+    "slug": "relieved_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😔",
+    "slug": "pensive_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😪",
+    "slug": "sleepy_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤤",
+    "slug": "drooling_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😴",
+    "slug": "sleeping_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🫩",
+    "slug": "face_with_bags_under_eyes",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😷",
+    "slug": "face_with_medical_mask",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤒",
+    "slug": "face_with_thermometer",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤕",
+    "slug": "face_with_head_bandage",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤢",
+    "slug": "nauseated_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤮",
+    "slug": "face_vomiting",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤧",
+    "slug": "sneezing_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🥵",
+    "slug": "hot_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🥶",
+    "slug": "cold_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🥴",
+    "slug": "woozy_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😵",
+    "slug": "face_with_crossed_out_eyes",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😵‍💫",
+    "slug": "face_with_spiral_eyes",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤯",
+    "slug": "exploding_head",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤠",
+    "slug": "cowboy_hat_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🥳",
+    "slug": "partying_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🥸",
+    "slug": "disguised_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😎",
+    "slug": "smiling_face_with_sunglasses",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤓",
+    "slug": "nerd_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🧐",
+    "slug": "face_with_monocle",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😕",
+    "slug": "confused_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🫤",
+    "slug": "face_with_diagonal_mouth",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😟",
+    "slug": "worried_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🙁",
+    "slug": "slightly_frowning_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "☹️",
+    "slug": "frowning_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😮",
+    "slug": "face_with_open_mouth",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😯",
+    "slug": "hushed_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😲",
+    "slug": "astonished_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😳",
+    "slug": "flushed_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🥺",
+    "slug": "pleading_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🥹",
+    "slug": "face_holding_back_tears",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😦",
+    "slug": "frowning_face_with_open_mouth",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😧",
+    "slug": "anguished_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😨",
+    "slug": "fearful_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😰",
+    "slug": "anxious_face_with_sweat",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😥",
+    "slug": "sad_but_relieved_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😢",
+    "slug": "crying_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😭",
+    "slug": "loudly_crying_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😱",
+    "slug": "face_screaming_in_fear",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😖",
+    "slug": "confounded_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😣",
+    "slug": "persevering_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😞",
+    "slug": "disappointed_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😓",
+    "slug": "downcast_face_with_sweat",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😩",
+    "slug": "weary_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😫",
+    "slug": "tired_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🥱",
+    "slug": "yawning_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😤",
+    "slug": "face_with_steam_from_nose",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😡",
+    "slug": "enraged_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😠",
+    "slug": "angry_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤬",
+    "slug": "face_with_symbols_on_mouth",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😈",
+    "slug": "smiling_face_with_horns",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "👿",
+    "slug": "angry_face_with_horns",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💀",
+    "slug": "skull",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "☠️",
+    "slug": "skull_and_crossbones",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💩",
+    "slug": "pile_of_poo",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤡",
+    "slug": "clown_face",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "👹",
+    "slug": "ogre",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "👺",
+    "slug": "goblin",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "👻",
+    "slug": "ghost",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "👽",
+    "slug": "alien",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "👾",
+    "slug": "alien_monster",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤖",
+    "slug": "robot",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😺",
+    "slug": "grinning_cat",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😸",
+    "slug": "grinning_cat_with_smiling_eyes",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😹",
+    "slug": "cat_with_tears_of_joy",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😻",
+    "slug": "smiling_cat_with_heart_eyes",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😼",
+    "slug": "cat_with_wry_smile",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😽",
+    "slug": "kissing_cat",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🙀",
+    "slug": "weary_cat",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😿",
+    "slug": "crying_cat",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "😾",
+    "slug": "pouting_cat",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🙈",
+    "slug": "see_no_evil_monkey",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🙉",
+    "slug": "hear_no_evil_monkey",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🙊",
+    "slug": "speak_no_evil_monkey",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💌",
+    "slug": "love_letter",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💘",
+    "slug": "heart_with_arrow",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💝",
+    "slug": "heart_with_ribbon",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💖",
+    "slug": "sparkling_heart",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💗",
+    "slug": "growing_heart",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💓",
+    "slug": "beating_heart",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💞",
+    "slug": "revolving_hearts",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💕",
+    "slug": "two_hearts",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💟",
+    "slug": "heart_decoration",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "❣️",
+    "slug": "heart_exclamation",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💔",
+    "slug": "broken_heart",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "❤️‍🔥",
+    "slug": "heart_on_fire",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "❤️‍🩹",
+    "slug": "mending_heart",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "❤️",
+    "slug": "red_heart",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🩷",
+    "slug": "pink_heart",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🧡",
+    "slug": "orange_heart",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💛",
+    "slug": "yellow_heart",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💚",
+    "slug": "green_heart",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💙",
+    "slug": "blue_heart",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🩵",
+    "slug": "light_blue_heart",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💜",
+    "slug": "purple_heart",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤎",
+    "slug": "brown_heart",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🖤",
+    "slug": "black_heart",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🩶",
+    "slug": "grey_heart",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🤍",
+    "slug": "white_heart",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💋",
+    "slug": "kiss_mark",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💯",
+    "slug": "hundred_points",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💢",
+    "slug": "anger_symbol",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💥",
+    "slug": "collision",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💫",
+    "slug": "dizzy",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💦",
+    "slug": "sweat_droplets",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💨",
+    "slug": "dashing_away",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🕳️",
+    "slug": "hole",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💬",
+    "slug": "speech_balloon",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "👁️‍🗨️",
+    "slug": "eye_in_speech_bubble",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🗨️",
+    "slug": "left_speech_bubble",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "🗯️",
+    "slug": "right_anger_bubble",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💭",
+    "slug": "thought_balloon",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "💤",
+    "slug": "zzz",
+    "group": "Smileys & Emotion"
+  },
+  {
+    "emoji": "👋",
+    "slug": "waving_hand",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤚",
+    "slug": "raised_back_of_hand",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🖐️",
+    "slug": "hand_with_fingers_splayed",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "✋",
+    "slug": "raised_hand",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🖖",
+    "slug": "vulcan_salute",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🫱",
+    "slug": "rightwards_hand",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🫲",
+    "slug": "leftwards_hand",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🫳",
+    "slug": "palm_down_hand",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🫴",
+    "slug": "palm_up_hand",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🫷",
+    "slug": "leftwards_pushing_hand",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🫸",
+    "slug": "rightwards_pushing_hand",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👌",
+    "slug": "ok_hand",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤌",
+    "slug": "pinched_fingers",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤏",
+    "slug": "pinching_hand",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "✌️",
+    "slug": "victory_hand",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤞",
+    "slug": "crossed_fingers",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🫰",
+    "slug": "hand_with_index_finger_and_thumb_crossed",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤟",
+    "slug": "love_you_gesture",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤘",
+    "slug": "sign_of_the_horns",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤙",
+    "slug": "call_me_hand",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👈",
+    "slug": "backhand_index_pointing_left",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👉",
+    "slug": "backhand_index_pointing_right",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👆",
+    "slug": "backhand_index_pointing_up",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🖕",
+    "slug": "middle_finger",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👇",
+    "slug": "backhand_index_pointing_down",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "☝️",
+    "slug": "index_pointing_up",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🫵",
+    "slug": "index_pointing_at_the_viewer",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👍",
+    "slug": "thumbs_up",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👎",
+    "slug": "thumbs_down",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "✊",
+    "slug": "raised_fist",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👊",
+    "slug": "oncoming_fist",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤛",
+    "slug": "left_facing_fist",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤜",
+    "slug": "right_facing_fist",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👏",
+    "slug": "clapping_hands",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🙌",
+    "slug": "raising_hands",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🫶",
+    "slug": "heart_hands",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👐",
+    "slug": "open_hands",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤲",
+    "slug": "palms_up_together",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤝",
+    "slug": "handshake",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🙏",
+    "slug": "folded_hands",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "✍️",
+    "slug": "writing_hand",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "💅",
+    "slug": "nail_polish",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤳",
+    "slug": "selfie",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "💪",
+    "slug": "flexed_biceps",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🦾",
+    "slug": "mechanical_arm",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🦿",
+    "slug": "mechanical_leg",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🦵",
+    "slug": "leg",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🦶",
+    "slug": "foot",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👂",
+    "slug": "ear",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🦻",
+    "slug": "ear_with_hearing_aid",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👃",
+    "slug": "nose",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧠",
+    "slug": "brain",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🫀",
+    "slug": "anatomical_heart",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🫁",
+    "slug": "lungs",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🦷",
+    "slug": "tooth",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🦴",
+    "slug": "bone",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👀",
+    "slug": "eyes",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👁️",
+    "slug": "eye",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👅",
+    "slug": "tongue",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👄",
+    "slug": "mouth",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🫦",
+    "slug": "biting_lip",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👶",
+    "slug": "baby",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧒",
+    "slug": "child",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👦",
+    "slug": "boy",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👧",
+    "slug": "girl",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑",
+    "slug": "person",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👱",
+    "slug": "person_blond_hair",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨",
+    "slug": "man",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧔",
+    "slug": "person_beard",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧔‍♂️",
+    "slug": "man_beard",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧔‍♀️",
+    "slug": "woman_beard",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍🦰",
+    "slug": "man_red_hair",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍🦱",
+    "slug": "man_curly_hair",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍🦳",
+    "slug": "man_white_hair",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍🦲",
+    "slug": "man_bald",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩",
+    "slug": "woman",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍🦰",
+    "slug": "woman_red_hair",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🦰",
+    "slug": "person_red_hair",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍🦱",
+    "slug": "woman_curly_hair",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🦱",
+    "slug": "person_curly_hair",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍🦳",
+    "slug": "woman_white_hair",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🦳",
+    "slug": "person_white_hair",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍🦲",
+    "slug": "woman_bald",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🦲",
+    "slug": "person_bald",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👱‍♀️",
+    "slug": "woman_blond_hair",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👱‍♂️",
+    "slug": "man_blond_hair",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧓",
+    "slug": "older_person",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👴",
+    "slug": "old_man",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👵",
+    "slug": "old_woman",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🙍",
+    "slug": "person_frowning",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🙍‍♂️",
+    "slug": "man_frowning",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🙍‍♀️",
+    "slug": "woman_frowning",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🙎",
+    "slug": "person_pouting",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🙎‍♂️",
+    "slug": "man_pouting",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🙎‍♀️",
+    "slug": "woman_pouting",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🙅",
+    "slug": "person_gesturing_no",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🙅‍♂️",
+    "slug": "man_gesturing_no",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🙅‍♀️",
+    "slug": "woman_gesturing_no",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🙆",
+    "slug": "person_gesturing_ok",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🙆‍♂️",
+    "slug": "man_gesturing_ok",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🙆‍♀️",
+    "slug": "woman_gesturing_ok",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "💁",
+    "slug": "person_tipping_hand",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "💁‍♂️",
+    "slug": "man_tipping_hand",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "💁‍♀️",
+    "slug": "woman_tipping_hand",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🙋",
+    "slug": "person_raising_hand",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🙋‍♂️",
+    "slug": "man_raising_hand",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🙋‍♀️",
+    "slug": "woman_raising_hand",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧏",
+    "slug": "deaf_person",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧏‍♂️",
+    "slug": "deaf_man",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧏‍♀️",
+    "slug": "deaf_woman",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🙇",
+    "slug": "person_bowing",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🙇‍♂️",
+    "slug": "man_bowing",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🙇‍♀️",
+    "slug": "woman_bowing",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤦",
+    "slug": "person_facepalming",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤦‍♂️",
+    "slug": "man_facepalming",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤦‍♀️",
+    "slug": "woman_facepalming",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤷",
+    "slug": "person_shrugging",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤷‍♂️",
+    "slug": "man_shrugging",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤷‍♀️",
+    "slug": "woman_shrugging",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍⚕️",
+    "slug": "health_worker",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍⚕️",
+    "slug": "man_health_worker",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍⚕️",
+    "slug": "woman_health_worker",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🎓",
+    "slug": "student",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍🎓",
+    "slug": "man_student",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍🎓",
+    "slug": "woman_student",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🏫",
+    "slug": "teacher",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍🏫",
+    "slug": "man_teacher",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍🏫",
+    "slug": "woman_teacher",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍⚖️",
+    "slug": "judge",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍⚖️",
+    "slug": "man_judge",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍⚖️",
+    "slug": "woman_judge",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🌾",
+    "slug": "farmer",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍🌾",
+    "slug": "man_farmer",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍🌾",
+    "slug": "woman_farmer",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🍳",
+    "slug": "cook",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍🍳",
+    "slug": "man_cook",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍🍳",
+    "slug": "woman_cook",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🔧",
+    "slug": "mechanic",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍🔧",
+    "slug": "man_mechanic",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍🔧",
+    "slug": "woman_mechanic",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🏭",
+    "slug": "factory_worker",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍🏭",
+    "slug": "man_factory_worker",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍🏭",
+    "slug": "woman_factory_worker",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍💼",
+    "slug": "office_worker",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍💼",
+    "slug": "man_office_worker",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍💼",
+    "slug": "woman_office_worker",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🔬",
+    "slug": "scientist",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍🔬",
+    "slug": "man_scientist",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍🔬",
+    "slug": "woman_scientist",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍💻",
+    "slug": "technologist",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍💻",
+    "slug": "man_technologist",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍💻",
+    "slug": "woman_technologist",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🎤",
+    "slug": "singer",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍🎤",
+    "slug": "man_singer",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍🎤",
+    "slug": "woman_singer",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🎨",
+    "slug": "artist",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍🎨",
+    "slug": "man_artist",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍🎨",
+    "slug": "woman_artist",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍✈️",
+    "slug": "pilot",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍✈️",
+    "slug": "man_pilot",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍✈️",
+    "slug": "woman_pilot",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🚀",
+    "slug": "astronaut",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍🚀",
+    "slug": "man_astronaut",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍🚀",
+    "slug": "woman_astronaut",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🚒",
+    "slug": "firefighter",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍🚒",
+    "slug": "man_firefighter",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍🚒",
+    "slug": "woman_firefighter",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👮",
+    "slug": "police_officer",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👮‍♂️",
+    "slug": "man_police_officer",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👮‍♀️",
+    "slug": "woman_police_officer",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🕵️",
+    "slug": "detective",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🕵️‍♂️",
+    "slug": "man_detective",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🕵️‍♀️",
+    "slug": "woman_detective",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "💂",
+    "slug": "guard",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "💂‍♂️",
+    "slug": "man_guard",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "💂‍♀️",
+    "slug": "woman_guard",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🥷",
+    "slug": "ninja",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👷",
+    "slug": "construction_worker",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👷‍♂️",
+    "slug": "man_construction_worker",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👷‍♀️",
+    "slug": "woman_construction_worker",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🫅",
+    "slug": "person_with_crown",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤴",
+    "slug": "prince",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👸",
+    "slug": "princess",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👳",
+    "slug": "person_wearing_turban",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👳‍♂️",
+    "slug": "man_wearing_turban",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👳‍♀️",
+    "slug": "woman_wearing_turban",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👲",
+    "slug": "person_with_skullcap",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧕",
+    "slug": "woman_with_headscarf",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤵",
+    "slug": "person_in_tuxedo",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤵‍♂️",
+    "slug": "man_in_tuxedo",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤵‍♀️",
+    "slug": "woman_in_tuxedo",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👰",
+    "slug": "person_with_veil",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👰‍♂️",
+    "slug": "man_with_veil",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👰‍♀️",
+    "slug": "woman_with_veil",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤰",
+    "slug": "pregnant_woman",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🫃",
+    "slug": "pregnant_man",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🫄",
+    "slug": "pregnant_person",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤱",
+    "slug": "breast_feeding",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍🍼",
+    "slug": "woman_feeding_baby",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍🍼",
+    "slug": "man_feeding_baby",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🍼",
+    "slug": "person_feeding_baby",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👼",
+    "slug": "baby_angel",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🎅",
+    "slug": "santa_claus",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤶",
+    "slug": "mrs_claus",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🎄",
+    "slug": "mx_claus",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🦸",
+    "slug": "superhero",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🦸‍♂️",
+    "slug": "man_superhero",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🦸‍♀️",
+    "slug": "woman_superhero",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🦹",
+    "slug": "supervillain",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🦹‍♂️",
+    "slug": "man_supervillain",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🦹‍♀️",
+    "slug": "woman_supervillain",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧙",
+    "slug": "mage",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧙‍♂️",
+    "slug": "man_mage",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧙‍♀️",
+    "slug": "woman_mage",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧚",
+    "slug": "fairy",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧚‍♂️",
+    "slug": "man_fairy",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧚‍♀️",
+    "slug": "woman_fairy",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧛",
+    "slug": "vampire",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧛‍♂️",
+    "slug": "man_vampire",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧛‍♀️",
+    "slug": "woman_vampire",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧜",
+    "slug": "merperson",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧜‍♂️",
+    "slug": "merman",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧜‍♀️",
+    "slug": "mermaid",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧝",
+    "slug": "elf",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧝‍♂️",
+    "slug": "man_elf",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧝‍♀️",
+    "slug": "woman_elf",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧞",
+    "slug": "genie",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧞‍♂️",
+    "slug": "man_genie",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧞‍♀️",
+    "slug": "woman_genie",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧟",
+    "slug": "zombie",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧟‍♂️",
+    "slug": "man_zombie",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧟‍♀️",
+    "slug": "woman_zombie",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧌",
+    "slug": "troll",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "💆",
+    "slug": "person_getting_massage",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "💆‍♂️",
+    "slug": "man_getting_massage",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "💆‍♀️",
+    "slug": "woman_getting_massage",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "💇",
+    "slug": "person_getting_haircut",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "💇‍♂️",
+    "slug": "man_getting_haircut",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "💇‍♀️",
+    "slug": "woman_getting_haircut",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🚶",
+    "slug": "person_walking",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🚶‍♂️",
+    "slug": "man_walking",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🚶‍♀️",
+    "slug": "woman_walking",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🚶‍➡️",
+    "slug": "person_walking_facing_right",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🚶‍♀️‍➡️",
+    "slug": "woman_walking_facing_right",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🚶‍♂️‍➡️",
+    "slug": "man_walking_facing_right",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧍",
+    "slug": "person_standing",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧍‍♂️",
+    "slug": "man_standing",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧍‍♀️",
+    "slug": "woman_standing",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧎",
+    "slug": "person_kneeling",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧎‍♂️",
+    "slug": "man_kneeling",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧎‍♀️",
+    "slug": "woman_kneeling",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧎‍➡️",
+    "slug": "person_kneeling_facing_right",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧎‍♀️‍➡️",
+    "slug": "woman_kneeling_facing_right",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧎‍♂️‍➡️",
+    "slug": "man_kneeling_facing_right",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🦯",
+    "slug": "person_with_white_cane",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🦯‍➡️",
+    "slug": "person_with_white_cane_facing_right",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍🦯",
+    "slug": "man_with_white_cane",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍🦯‍➡️",
+    "slug": "man_with_white_cane_facing_right",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍🦯",
+    "slug": "woman_with_white_cane",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍🦯‍➡️",
+    "slug": "woman_with_white_cane_facing_right",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🦼",
+    "slug": "person_in_motorized_wheelchair",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🦼‍➡️",
+    "slug": "person_in_motorized_wheelchair_facing_right",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍🦼",
+    "slug": "man_in_motorized_wheelchair",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍🦼‍➡️",
+    "slug": "man_in_motorized_wheelchair_facing_right",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍🦼",
+    "slug": "woman_in_motorized_wheelchair",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍🦼‍➡️",
+    "slug": "woman_in_motorized_wheelchair_facing_right",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🦽",
+    "slug": "person_in_manual_wheelchair",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🦽‍➡️",
+    "slug": "person_in_manual_wheelchair_facing_right",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍🦽",
+    "slug": "man_in_manual_wheelchair",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍🦽‍➡️",
+    "slug": "man_in_manual_wheelchair_facing_right",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍🦽",
+    "slug": "woman_in_manual_wheelchair",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍🦽‍➡️",
+    "slug": "woman_in_manual_wheelchair_facing_right",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🏃",
+    "slug": "person_running",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🏃‍♂️",
+    "slug": "man_running",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🏃‍♀️",
+    "slug": "woman_running",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🏃‍➡️",
+    "slug": "person_running_facing_right",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🏃‍♀️‍➡️",
+    "slug": "woman_running_facing_right",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🏃‍♂️‍➡️",
+    "slug": "man_running_facing_right",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "💃",
+    "slug": "woman_dancing",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🕺",
+    "slug": "man_dancing",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🕴️",
+    "slug": "person_in_suit_levitating",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👯",
+    "slug": "people_with_bunny_ears",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👯‍♂️",
+    "slug": "men_with_bunny_ears",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👯‍♀️",
+    "slug": "women_with_bunny_ears",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧖",
+    "slug": "person_in_steamy_room",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧖‍♂️",
+    "slug": "man_in_steamy_room",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧖‍♀️",
+    "slug": "woman_in_steamy_room",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧗",
+    "slug": "person_climbing",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧗‍♂️",
+    "slug": "man_climbing",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧗‍♀️",
+    "slug": "woman_climbing",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤺",
+    "slug": "person_fencing",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🏇",
+    "slug": "horse_racing",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "⛷️",
+    "slug": "skier",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🏂",
+    "slug": "snowboarder",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🏌️",
+    "slug": "person_golfing",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🏌️‍♂️",
+    "slug": "man_golfing",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🏌️‍♀️",
+    "slug": "woman_golfing",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🏄",
+    "slug": "person_surfing",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🏄‍♂️",
+    "slug": "man_surfing",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🏄‍♀️",
+    "slug": "woman_surfing",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🚣",
+    "slug": "person_rowing_boat",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🚣‍♂️",
+    "slug": "man_rowing_boat",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🚣‍♀️",
+    "slug": "woman_rowing_boat",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🏊",
+    "slug": "person_swimming",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🏊‍♂️",
+    "slug": "man_swimming",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🏊‍♀️",
+    "slug": "woman_swimming",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "⛹️",
+    "slug": "person_bouncing_ball",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "⛹️‍♂️",
+    "slug": "man_bouncing_ball",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "⛹️‍♀️",
+    "slug": "woman_bouncing_ball",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🏋️",
+    "slug": "person_lifting_weights",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🏋️‍♂️",
+    "slug": "man_lifting_weights",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🏋️‍♀️",
+    "slug": "woman_lifting_weights",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🚴",
+    "slug": "person_biking",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🚴‍♂️",
+    "slug": "man_biking",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🚴‍♀️",
+    "slug": "woman_biking",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🚵",
+    "slug": "person_mountain_biking",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🚵‍♂️",
+    "slug": "man_mountain_biking",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🚵‍♀️",
+    "slug": "woman_mountain_biking",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤸",
+    "slug": "person_cartwheeling",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤸‍♂️",
+    "slug": "man_cartwheeling",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤸‍♀️",
+    "slug": "woman_cartwheeling",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤼",
+    "slug": "people_wrestling",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤼‍♂️",
+    "slug": "men_wrestling",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤼‍♀️",
+    "slug": "women_wrestling",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤽",
+    "slug": "person_playing_water_polo",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤽‍♂️",
+    "slug": "man_playing_water_polo",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤽‍♀️",
+    "slug": "woman_playing_water_polo",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤾",
+    "slug": "person_playing_handball",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤾‍♂️",
+    "slug": "man_playing_handball",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤾‍♀️",
+    "slug": "woman_playing_handball",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤹",
+    "slug": "person_juggling",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤹‍♂️",
+    "slug": "man_juggling",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🤹‍♀️",
+    "slug": "woman_juggling",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧘",
+    "slug": "person_in_lotus_position",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧘‍♂️",
+    "slug": "man_in_lotus_position",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧘‍♀️",
+    "slug": "woman_in_lotus_position",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🛀",
+    "slug": "person_taking_bath",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🛌",
+    "slug": "person_in_bed",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🤝‍🧑",
+    "slug": "people_holding_hands",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👭",
+    "slug": "women_holding_hands",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👫",
+    "slug": "woman_and_man_holding_hands",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👬",
+    "slug": "men_holding_hands",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "💏",
+    "slug": "kiss",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍❤️‍💋‍👨",
+    "slug": "kiss_woman_man",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍❤️‍💋‍👨",
+    "slug": "kiss_man_man",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍❤️‍💋‍👩",
+    "slug": "kiss_woman_woman",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "💑",
+    "slug": "couple_with_heart",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍❤️‍👨",
+    "slug": "couple_with_heart_woman_man",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍❤️‍👨",
+    "slug": "couple_with_heart_man_man",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍❤️‍👩",
+    "slug": "couple_with_heart_woman_woman",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍👩‍👦",
+    "slug": "family_man_woman_boy",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍👩‍👧",
+    "slug": "family_man_woman_girl",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍👩‍👧‍👦",
+    "slug": "family_man_woman_girl_boy",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍👩‍👦‍👦",
+    "slug": "family_man_woman_boy_boy",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍👩‍👧‍👧",
+    "slug": "family_man_woman_girl_girl",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍👨‍👦",
+    "slug": "family_man_man_boy",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍👨‍👧",
+    "slug": "family_man_man_girl",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍👨‍👧‍👦",
+    "slug": "family_man_man_girl_boy",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍👨‍👦‍👦",
+    "slug": "family_man_man_boy_boy",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍👨‍👧‍👧",
+    "slug": "family_man_man_girl_girl",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍👩‍👦",
+    "slug": "family_woman_woman_boy",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍👩‍👧",
+    "slug": "family_woman_woman_girl",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍👩‍👧‍👦",
+    "slug": "family_woman_woman_girl_boy",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍👩‍👦‍👦",
+    "slug": "family_woman_woman_boy_boy",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍👩‍👧‍👧",
+    "slug": "family_woman_woman_girl_girl",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍👦",
+    "slug": "family_man_boy",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍👦‍👦",
+    "slug": "family_man_boy_boy",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍👧",
+    "slug": "family_man_girl",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍👧‍👦",
+    "slug": "family_man_girl_boy",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👨‍👧‍👧",
+    "slug": "family_man_girl_girl",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍👦",
+    "slug": "family_woman_boy",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍👦‍👦",
+    "slug": "family_woman_boy_boy",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍👧",
+    "slug": "family_woman_girl",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍👧‍👦",
+    "slug": "family_woman_girl_boy",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👩‍👧‍👧",
+    "slug": "family_woman_girl_girl",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🗣️",
+    "slug": "speaking_head",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👤",
+    "slug": "bust_in_silhouette",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👥",
+    "slug": "busts_in_silhouette",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🫂",
+    "slug": "people_hugging",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👪",
+    "slug": "family",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🧑‍🧒",
+    "slug": "family_adult_adult_child",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🧑‍🧒‍🧒",
+    "slug": "family_adult_adult_child_child",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🧒",
+    "slug": "family_adult_child",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🧑‍🧒‍🧒",
+    "slug": "family_adult_child_child",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "👣",
+    "slug": "footprints",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🫆",
+    "slug": "fingerprint",
+    "group": "People & Body"
+  },
+  {
+    "emoji": "🐵",
+    "slug": "monkey_face",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐒",
+    "slug": "monkey",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦍",
+    "slug": "gorilla",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦧",
+    "slug": "orangutan",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐶",
+    "slug": "dog_face",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐕",
+    "slug": "dog",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦮",
+    "slug": "guide_dog",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐕‍🦺",
+    "slug": "service_dog",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐩",
+    "slug": "poodle",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐺",
+    "slug": "wolf",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦊",
+    "slug": "fox",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦝",
+    "slug": "raccoon",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐱",
+    "slug": "cat_face",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐈",
+    "slug": "cat",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐈‍⬛",
+    "slug": "black_cat",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦁",
+    "slug": "lion",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐯",
+    "slug": "tiger_face",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐅",
+    "slug": "tiger",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐆",
+    "slug": "leopard",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐴",
+    "slug": "horse_face",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🫎",
+    "slug": "moose",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🫏",
+    "slug": "donkey",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐎",
+    "slug": "horse",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦄",
+    "slug": "unicorn",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦓",
+    "slug": "zebra",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦌",
+    "slug": "deer",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦬",
+    "slug": "bison",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐮",
+    "slug": "cow_face",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐂",
+    "slug": "ox",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐃",
+    "slug": "water_buffalo",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐄",
+    "slug": "cow",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐷",
+    "slug": "pig_face",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐖",
+    "slug": "pig",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐗",
+    "slug": "boar",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐽",
+    "slug": "pig_nose",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐏",
+    "slug": "ram",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐑",
+    "slug": "ewe",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐐",
+    "slug": "goat",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐪",
+    "slug": "camel",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐫",
+    "slug": "two_hump_camel",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦙",
+    "slug": "llama",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦒",
+    "slug": "giraffe",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐘",
+    "slug": "elephant",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦣",
+    "slug": "mammoth",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦏",
+    "slug": "rhinoceros",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦛",
+    "slug": "hippopotamus",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐭",
+    "slug": "mouse_face",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐁",
+    "slug": "mouse",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐀",
+    "slug": "rat",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐹",
+    "slug": "hamster",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐰",
+    "slug": "rabbit_face",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐇",
+    "slug": "rabbit",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐿️",
+    "slug": "chipmunk",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦫",
+    "slug": "beaver",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦔",
+    "slug": "hedgehog",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦇",
+    "slug": "bat",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐻",
+    "slug": "bear",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐻‍❄️",
+    "slug": "polar_bear",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐨",
+    "slug": "koala",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐼",
+    "slug": "panda",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦥",
+    "slug": "sloth",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦦",
+    "slug": "otter",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦨",
+    "slug": "skunk",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦘",
+    "slug": "kangaroo",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦡",
+    "slug": "badger",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐾",
+    "slug": "paw_prints",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦃",
+    "slug": "turkey",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐔",
+    "slug": "chicken",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐓",
+    "slug": "rooster",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐣",
+    "slug": "hatching_chick",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐤",
+    "slug": "baby_chick",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐥",
+    "slug": "front_facing_baby_chick",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐦",
+    "slug": "bird",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐧",
+    "slug": "penguin",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🕊️",
+    "slug": "dove",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦅",
+    "slug": "eagle",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦆",
+    "slug": "duck",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦢",
+    "slug": "swan",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦉",
+    "slug": "owl",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦤",
+    "slug": "dodo",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🪶",
+    "slug": "feather",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦩",
+    "slug": "flamingo",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦚",
+    "slug": "peacock",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦜",
+    "slug": "parrot",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🪽",
+    "slug": "wing",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐦‍⬛",
+    "slug": "black_bird",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🪿",
+    "slug": "goose",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐦‍🔥",
+    "slug": "phoenix",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐸",
+    "slug": "frog",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐊",
+    "slug": "crocodile",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐢",
+    "slug": "turtle",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦎",
+    "slug": "lizard",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐍",
+    "slug": "snake",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐲",
+    "slug": "dragon_face",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐉",
+    "slug": "dragon",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦕",
+    "slug": "sauropod",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦖",
+    "slug": "t_rex",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐳",
+    "slug": "spouting_whale",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐋",
+    "slug": "whale",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐬",
+    "slug": "dolphin",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦭",
+    "slug": "seal",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐟",
+    "slug": "fish",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐠",
+    "slug": "tropical_fish",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐡",
+    "slug": "blowfish",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦈",
+    "slug": "shark",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐙",
+    "slug": "octopus",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐚",
+    "slug": "spiral_shell",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🪸",
+    "slug": "coral",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🪼",
+    "slug": "jellyfish",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦀",
+    "slug": "crab",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦞",
+    "slug": "lobster",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦐",
+    "slug": "shrimp",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦑",
+    "slug": "squid",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦪",
+    "slug": "oyster",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐌",
+    "slug": "snail",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦋",
+    "slug": "butterfly",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐛",
+    "slug": "bug",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐜",
+    "slug": "ant",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐝",
+    "slug": "honeybee",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🪲",
+    "slug": "beetle",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🐞",
+    "slug": "lady_beetle",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦗",
+    "slug": "cricket",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🪳",
+    "slug": "cockroach",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🕷️",
+    "slug": "spider",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🕸️",
+    "slug": "spider_web",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦂",
+    "slug": "scorpion",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦟",
+    "slug": "mosquito",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🪰",
+    "slug": "fly",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🪱",
+    "slug": "worm",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🦠",
+    "slug": "microbe",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "💐",
+    "slug": "bouquet",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🌸",
+    "slug": "cherry_blossom",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "💮",
+    "slug": "white_flower",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🪷",
+    "slug": "lotus",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🏵️",
+    "slug": "rosette",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🌹",
+    "slug": "rose",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🥀",
+    "slug": "wilted_flower",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🌺",
+    "slug": "hibiscus",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🌻",
+    "slug": "sunflower",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🌼",
+    "slug": "blossom",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🌷",
+    "slug": "tulip",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🪻",
+    "slug": "hyacinth",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🌱",
+    "slug": "seedling",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🪴",
+    "slug": "potted_plant",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🌲",
+    "slug": "evergreen_tree",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🌳",
+    "slug": "deciduous_tree",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🌴",
+    "slug": "palm_tree",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🌵",
+    "slug": "cactus",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🌾",
+    "slug": "sheaf_of_rice",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🌿",
+    "slug": "herb",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "☘️",
+    "slug": "shamrock",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🍀",
+    "slug": "four_leaf_clover",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🍁",
+    "slug": "maple_leaf",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🍂",
+    "slug": "fallen_leaf",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🍃",
+    "slug": "leaf_fluttering_in_wind",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🪹",
+    "slug": "empty_nest",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🪺",
+    "slug": "nest_with_eggs",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🍄",
+    "slug": "mushroom",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🪾",
+    "slug": "leafless_tree",
+    "group": "Animals & Nature"
+  },
+  {
+    "emoji": "🍇",
+    "slug": "grapes",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍈",
+    "slug": "melon",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍉",
+    "slug": "watermelon",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍊",
+    "slug": "tangerine",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍋",
+    "slug": "lemon",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍋‍🟩",
+    "slug": "lime",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍌",
+    "slug": "banana",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍍",
+    "slug": "pineapple",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥭",
+    "slug": "mango",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍎",
+    "slug": "red_apple",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍏",
+    "slug": "green_apple",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍐",
+    "slug": "pear",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍑",
+    "slug": "peach",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍒",
+    "slug": "cherries",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍓",
+    "slug": "strawberry",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🫐",
+    "slug": "blueberries",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥝",
+    "slug": "kiwi_fruit",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍅",
+    "slug": "tomato",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🫒",
+    "slug": "olive",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥥",
+    "slug": "coconut",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥑",
+    "slug": "avocado",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍆",
+    "slug": "eggplant",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥔",
+    "slug": "potato",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥕",
+    "slug": "carrot",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🌽",
+    "slug": "ear_of_corn",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🌶️",
+    "slug": "hot_pepper",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🫑",
+    "slug": "bell_pepper",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥒",
+    "slug": "cucumber",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥬",
+    "slug": "leafy_green",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥦",
+    "slug": "broccoli",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🧄",
+    "slug": "garlic",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🧅",
+    "slug": "onion",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥜",
+    "slug": "peanuts",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🫘",
+    "slug": "beans",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🌰",
+    "slug": "chestnut",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🫚",
+    "slug": "ginger_root",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🫛",
+    "slug": "pea_pod",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍄‍🟫",
+    "slug": "brown_mushroom",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🫜",
+    "slug": "root_vegetable",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍞",
+    "slug": "bread",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥐",
+    "slug": "croissant",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥖",
+    "slug": "baguette_bread",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🫓",
+    "slug": "flatbread",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥨",
+    "slug": "pretzel",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥯",
+    "slug": "bagel",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥞",
+    "slug": "pancakes",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🧇",
+    "slug": "waffle",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🧀",
+    "slug": "cheese_wedge",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍖",
+    "slug": "meat_on_bone",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍗",
+    "slug": "poultry_leg",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥩",
+    "slug": "cut_of_meat",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥓",
+    "slug": "bacon",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍔",
+    "slug": "hamburger",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍟",
+    "slug": "french_fries",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍕",
+    "slug": "pizza",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🌭",
+    "slug": "hot_dog",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥪",
+    "slug": "sandwich",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🌮",
+    "slug": "taco",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🌯",
+    "slug": "burrito",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🫔",
+    "slug": "tamale",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥙",
+    "slug": "stuffed_flatbread",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🧆",
+    "slug": "falafel",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥚",
+    "slug": "egg",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍳",
+    "slug": "cooking",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥘",
+    "slug": "shallow_pan_of_food",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍲",
+    "slug": "pot_of_food",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🫕",
+    "slug": "fondue",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥣",
+    "slug": "bowl_with_spoon",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥗",
+    "slug": "green_salad",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍿",
+    "slug": "popcorn",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🧈",
+    "slug": "butter",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🧂",
+    "slug": "salt",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥫",
+    "slug": "canned_food",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍱",
+    "slug": "bento_box",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍘",
+    "slug": "rice_cracker",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍙",
+    "slug": "rice_ball",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍚",
+    "slug": "cooked_rice",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍛",
+    "slug": "curry_rice",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍜",
+    "slug": "steaming_bowl",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍝",
+    "slug": "spaghetti",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍠",
+    "slug": "roasted_sweet_potato",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍢",
+    "slug": "oden",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍣",
+    "slug": "sushi",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍤",
+    "slug": "fried_shrimp",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍥",
+    "slug": "fish_cake_with_swirl",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥮",
+    "slug": "moon_cake",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍡",
+    "slug": "dango",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥟",
+    "slug": "dumpling",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥠",
+    "slug": "fortune_cookie",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥡",
+    "slug": "takeout_box",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍦",
+    "slug": "soft_ice_cream",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍧",
+    "slug": "shaved_ice",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍨",
+    "slug": "ice_cream",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍩",
+    "slug": "doughnut",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍪",
+    "slug": "cookie",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🎂",
+    "slug": "birthday_cake",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍰",
+    "slug": "shortcake",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🧁",
+    "slug": "cupcake",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥧",
+    "slug": "pie",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍫",
+    "slug": "chocolate_bar",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍬",
+    "slug": "candy",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍭",
+    "slug": "lollipop",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍮",
+    "slug": "custard",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍯",
+    "slug": "honey_pot",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍼",
+    "slug": "baby_bottle",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥛",
+    "slug": "glass_of_milk",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "☕",
+    "slug": "hot_beverage",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🫖",
+    "slug": "teapot",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍵",
+    "slug": "teacup_without_handle",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍶",
+    "slug": "sake",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍾",
+    "slug": "bottle_with_popping_cork",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍷",
+    "slug": "wine_glass",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍸",
+    "slug": "cocktail_glass",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍹",
+    "slug": "tropical_drink",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍺",
+    "slug": "beer_mug",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍻",
+    "slug": "clinking_beer_mugs",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥂",
+    "slug": "clinking_glasses",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥃",
+    "slug": "tumbler_glass",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🫗",
+    "slug": "pouring_liquid",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥤",
+    "slug": "cup_with_straw",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🧋",
+    "slug": "bubble_tea",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🧃",
+    "slug": "beverage_box",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🧉",
+    "slug": "mate",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🧊",
+    "slug": "ice",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥢",
+    "slug": "chopsticks",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍽️",
+    "slug": "fork_and_knife_with_plate",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🍴",
+    "slug": "fork_and_knife",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🥄",
+    "slug": "spoon",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🔪",
+    "slug": "kitchen_knife",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🫙",
+    "slug": "jar",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🏺",
+    "slug": "amphora",
+    "group": "Food & Drink"
+  },
+  {
+    "emoji": "🌍",
+    "slug": "globe_showing_europe_africa",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌎",
+    "slug": "globe_showing_americas",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌏",
+    "slug": "globe_showing_asia_australia",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌐",
+    "slug": "globe_with_meridians",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🗺️",
+    "slug": "world_map",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🗾",
+    "slug": "map_of_japan",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🧭",
+    "slug": "compass",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏔️",
+    "slug": "snow_capped_mountain",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "⛰️",
+    "slug": "mountain",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌋",
+    "slug": "volcano",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🗻",
+    "slug": "mount_fuji",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏕️",
+    "slug": "camping",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏖️",
+    "slug": "beach_with_umbrella",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏜️",
+    "slug": "desert",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏝️",
+    "slug": "desert_island",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏞️",
+    "slug": "national_park",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏟️",
+    "slug": "stadium",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏛️",
+    "slug": "classical_building",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏗️",
+    "slug": "building_construction",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🧱",
+    "slug": "brick",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🪨",
+    "slug": "rock",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🪵",
+    "slug": "wood",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛖",
+    "slug": "hut",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏘️",
+    "slug": "houses",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏚️",
+    "slug": "derelict_house",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏠",
+    "slug": "house",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏡",
+    "slug": "house_with_garden",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏢",
+    "slug": "office_building",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏣",
+    "slug": "japanese_post_office",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏤",
+    "slug": "post_office",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏥",
+    "slug": "hospital",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏦",
+    "slug": "bank",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏨",
+    "slug": "hotel",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏩",
+    "slug": "love_hotel",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏪",
+    "slug": "convenience_store",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏫",
+    "slug": "school",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏬",
+    "slug": "department_store",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏭",
+    "slug": "factory",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏯",
+    "slug": "japanese_castle",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏰",
+    "slug": "castle",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "💒",
+    "slug": "wedding",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🗼",
+    "slug": "tokyo_tower",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🗽",
+    "slug": "statue_of_liberty",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "⛪",
+    "slug": "church",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕌",
+    "slug": "mosque",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛕",
+    "slug": "hindu_temple",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕍",
+    "slug": "synagogue",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "⛩️",
+    "slug": "shinto_shrine",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕋",
+    "slug": "kaaba",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "⛲",
+    "slug": "fountain",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "⛺",
+    "slug": "tent",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌁",
+    "slug": "foggy",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌃",
+    "slug": "night_with_stars",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏙️",
+    "slug": "cityscape",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌄",
+    "slug": "sunrise_over_mountains",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌅",
+    "slug": "sunrise",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌆",
+    "slug": "cityscape_at_dusk",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌇",
+    "slug": "sunset",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌉",
+    "slug": "bridge_at_night",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "♨️",
+    "slug": "hot_springs",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🎠",
+    "slug": "carousel_horse",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛝",
+    "slug": "playground_slide",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🎡",
+    "slug": "ferris_wheel",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🎢",
+    "slug": "roller_coaster",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "💈",
+    "slug": "barber_pole",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🎪",
+    "slug": "circus_tent",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚂",
+    "slug": "locomotive",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚃",
+    "slug": "railway_car",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚄",
+    "slug": "high_speed_train",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚅",
+    "slug": "bullet_train",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚆",
+    "slug": "train",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚇",
+    "slug": "metro",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚈",
+    "slug": "light_rail",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚉",
+    "slug": "station",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚊",
+    "slug": "tram",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚝",
+    "slug": "monorail",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚞",
+    "slug": "mountain_railway",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚋",
+    "slug": "tram_car",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚌",
+    "slug": "bus",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚍",
+    "slug": "oncoming_bus",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚎",
+    "slug": "trolleybus",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚐",
+    "slug": "minibus",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚑",
+    "slug": "ambulance",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚒",
+    "slug": "fire_engine",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚓",
+    "slug": "police_car",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚔",
+    "slug": "oncoming_police_car",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚕",
+    "slug": "taxi",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚖",
+    "slug": "oncoming_taxi",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚗",
+    "slug": "automobile",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚘",
+    "slug": "oncoming_automobile",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚙",
+    "slug": "sport_utility_vehicle",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛻",
+    "slug": "pickup_truck",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚚",
+    "slug": "delivery_truck",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚛",
+    "slug": "articulated_lorry",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚜",
+    "slug": "tractor",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏎️",
+    "slug": "racing_car",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🏍️",
+    "slug": "motorcycle",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛵",
+    "slug": "motor_scooter",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🦽",
+    "slug": "manual_wheelchair",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🦼",
+    "slug": "motorized_wheelchair",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛺",
+    "slug": "auto_rickshaw",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚲",
+    "slug": "bicycle",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛴",
+    "slug": "kick_scooter",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛹",
+    "slug": "skateboard",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛼",
+    "slug": "roller_skate",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚏",
+    "slug": "bus_stop",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛣️",
+    "slug": "motorway",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛤️",
+    "slug": "railway_track",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛢️",
+    "slug": "oil_drum",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "⛽",
+    "slug": "fuel_pump",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛞",
+    "slug": "wheel",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚨",
+    "slug": "police_car_light",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚥",
+    "slug": "horizontal_traffic_light",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚦",
+    "slug": "vertical_traffic_light",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛑",
+    "slug": "stop_sign",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚧",
+    "slug": "construction",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "⚓",
+    "slug": "anchor",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛟",
+    "slug": "ring_buoy",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "⛵",
+    "slug": "sailboat",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛶",
+    "slug": "canoe",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚤",
+    "slug": "speedboat",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛳️",
+    "slug": "passenger_ship",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "⛴️",
+    "slug": "ferry",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛥️",
+    "slug": "motor_boat",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚢",
+    "slug": "ship",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "✈️",
+    "slug": "airplane",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛩️",
+    "slug": "small_airplane",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛫",
+    "slug": "airplane_departure",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛬",
+    "slug": "airplane_arrival",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🪂",
+    "slug": "parachute",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "💺",
+    "slug": "seat",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚁",
+    "slug": "helicopter",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚟",
+    "slug": "suspension_railway",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚠",
+    "slug": "mountain_cableway",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚡",
+    "slug": "aerial_tramway",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛰️",
+    "slug": "satellite",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🚀",
+    "slug": "rocket",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛸",
+    "slug": "flying_saucer",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🛎️",
+    "slug": "bellhop_bell",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🧳",
+    "slug": "luggage",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "⌛",
+    "slug": "hourglass_done",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "⏳",
+    "slug": "hourglass_not_done",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "⌚",
+    "slug": "watch",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "⏰",
+    "slug": "alarm_clock",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "⏱️",
+    "slug": "stopwatch",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "⏲️",
+    "slug": "timer_clock",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕰️",
+    "slug": "mantelpiece_clock",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕛",
+    "slug": "twelve_o_clock",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕧",
+    "slug": "twelve_thirty",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕐",
+    "slug": "one_o_clock",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕜",
+    "slug": "one_thirty",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕑",
+    "slug": "two_o_clock",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕝",
+    "slug": "two_thirty",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕒",
+    "slug": "three_o_clock",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕞",
+    "slug": "three_thirty",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕓",
+    "slug": "four_o_clock",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕟",
+    "slug": "four_thirty",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕔",
+    "slug": "five_o_clock",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕠",
+    "slug": "five_thirty",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕕",
+    "slug": "six_o_clock",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕡",
+    "slug": "six_thirty",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕖",
+    "slug": "seven_o_clock",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕢",
+    "slug": "seven_thirty",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕗",
+    "slug": "eight_o_clock",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕣",
+    "slug": "eight_thirty",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕘",
+    "slug": "nine_o_clock",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕤",
+    "slug": "nine_thirty",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕙",
+    "slug": "ten_o_clock",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕥",
+    "slug": "ten_thirty",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕚",
+    "slug": "eleven_o_clock",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🕦",
+    "slug": "eleven_thirty",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌑",
+    "slug": "new_moon",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌒",
+    "slug": "waxing_crescent_moon",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌓",
+    "slug": "first_quarter_moon",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌔",
+    "slug": "waxing_gibbous_moon",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌕",
+    "slug": "full_moon",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌖",
+    "slug": "waning_gibbous_moon",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌗",
+    "slug": "last_quarter_moon",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌘",
+    "slug": "waning_crescent_moon",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌙",
+    "slug": "crescent_moon",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌚",
+    "slug": "new_moon_face",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌛",
+    "slug": "first_quarter_moon_face",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌜",
+    "slug": "last_quarter_moon_face",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌡️",
+    "slug": "thermometer",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "☀️",
+    "slug": "sun",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌝",
+    "slug": "full_moon_face",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌞",
+    "slug": "sun_with_face",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🪐",
+    "slug": "ringed_planet",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "⭐",
+    "slug": "star",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌟",
+    "slug": "glowing_star",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌠",
+    "slug": "shooting_star",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌌",
+    "slug": "milky_way",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "☁️",
+    "slug": "cloud",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "⛅",
+    "slug": "sun_behind_cloud",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "⛈️",
+    "slug": "cloud_with_lightning_and_rain",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌤️",
+    "slug": "sun_behind_small_cloud",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌥️",
+    "slug": "sun_behind_large_cloud",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌦️",
+    "slug": "sun_behind_rain_cloud",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌧️",
+    "slug": "cloud_with_rain",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌨️",
+    "slug": "cloud_with_snow",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌩️",
+    "slug": "cloud_with_lightning",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌪️",
+    "slug": "tornado",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌫️",
+    "slug": "fog",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌬️",
+    "slug": "wind_face",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌀",
+    "slug": "cyclone",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌈",
+    "slug": "rainbow",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌂",
+    "slug": "closed_umbrella",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "☂️",
+    "slug": "umbrella",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "☔",
+    "slug": "umbrella_with_rain_drops",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "⛱️",
+    "slug": "umbrella_on_ground",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "⚡",
+    "slug": "high_voltage",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "❄️",
+    "slug": "snowflake",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "☃️",
+    "slug": "snowman",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "⛄",
+    "slug": "snowman_without_snow",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "☄️",
+    "slug": "comet",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🔥",
+    "slug": "fire",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "💧",
+    "slug": "droplet",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🌊",
+    "slug": "water_wave",
+    "group": "Travel & Places"
+  },
+  {
+    "emoji": "🎃",
+    "slug": "jack_o_lantern",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎄",
+    "slug": "christmas_tree",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎆",
+    "slug": "fireworks",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎇",
+    "slug": "sparkler",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🧨",
+    "slug": "firecracker",
+    "group": "Activities"
+  },
+  {
+    "emoji": "✨",
+    "slug": "sparkles",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎈",
+    "slug": "balloon",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎉",
+    "slug": "party_popper",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎊",
+    "slug": "confetti_ball",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎋",
+    "slug": "tanabata_tree",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎍",
+    "slug": "pine_decoration",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎎",
+    "slug": "japanese_dolls",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎏",
+    "slug": "carp_streamer",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎐",
+    "slug": "wind_chime",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎑",
+    "slug": "moon_viewing_ceremony",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🧧",
+    "slug": "red_envelope",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎀",
+    "slug": "ribbon",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎁",
+    "slug": "wrapped_gift",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎗️",
+    "slug": "reminder_ribbon",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎟️",
+    "slug": "admission_tickets",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎫",
+    "slug": "ticket",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎖️",
+    "slug": "military_medal",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🏆",
+    "slug": "trophy",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🏅",
+    "slug": "sports_medal",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🥇",
+    "slug": "1st_place_medal",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🥈",
+    "slug": "2nd_place_medal",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🥉",
+    "slug": "3rd_place_medal",
+    "group": "Activities"
+  },
+  {
+    "emoji": "⚽",
+    "slug": "soccer_ball",
+    "group": "Activities"
+  },
+  {
+    "emoji": "⚾",
+    "slug": "baseball",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🥎",
+    "slug": "softball",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🏀",
+    "slug": "basketball",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🏐",
+    "slug": "volleyball",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🏈",
+    "slug": "american_football",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🏉",
+    "slug": "rugby_football",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎾",
+    "slug": "tennis",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🥏",
+    "slug": "flying_disc",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎳",
+    "slug": "bowling",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🏏",
+    "slug": "cricket_game",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🏑",
+    "slug": "field_hockey",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🏒",
+    "slug": "ice_hockey",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🥍",
+    "slug": "lacrosse",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🏓",
+    "slug": "ping_pong",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🏸",
+    "slug": "badminton",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🥊",
+    "slug": "boxing_glove",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🥋",
+    "slug": "martial_arts_uniform",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🥅",
+    "slug": "goal_net",
+    "group": "Activities"
+  },
+  {
+    "emoji": "⛳",
+    "slug": "flag_in_hole",
+    "group": "Activities"
+  },
+  {
+    "emoji": "⛸️",
+    "slug": "ice_skate",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎣",
+    "slug": "fishing_pole",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🤿",
+    "slug": "diving_mask",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎽",
+    "slug": "running_shirt",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎿",
+    "slug": "skis",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🛷",
+    "slug": "sled",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🥌",
+    "slug": "curling_stone",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎯",
+    "slug": "bullseye",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🪀",
+    "slug": "yo_yo",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🪁",
+    "slug": "kite",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🔫",
+    "slug": "water_pistol",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎱",
+    "slug": "pool_8_ball",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🔮",
+    "slug": "crystal_ball",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🪄",
+    "slug": "magic_wand",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎮",
+    "slug": "video_game",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🕹️",
+    "slug": "joystick",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎰",
+    "slug": "slot_machine",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎲",
+    "slug": "game_die",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🧩",
+    "slug": "puzzle_piece",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🧸",
+    "slug": "teddy_bear",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🪅",
+    "slug": "pinata",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🪩",
+    "slug": "mirror_ball",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🪆",
+    "slug": "nesting_dolls",
+    "group": "Activities"
+  },
+  {
+    "emoji": "♠️",
+    "slug": "spade_suit",
+    "group": "Activities"
+  },
+  {
+    "emoji": "♥️",
+    "slug": "heart_suit",
+    "group": "Activities"
+  },
+  {
+    "emoji": "♦️",
+    "slug": "diamond_suit",
+    "group": "Activities"
+  },
+  {
+    "emoji": "♣️",
+    "slug": "club_suit",
+    "group": "Activities"
+  },
+  {
+    "emoji": "♟️",
+    "slug": "chess_pawn",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🃏",
+    "slug": "joker",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🀄",
+    "slug": "mahjong_red_dragon",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎴",
+    "slug": "flower_playing_cards",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎭",
+    "slug": "performing_arts",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🖼️",
+    "slug": "framed_picture",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🎨",
+    "slug": "artist_palette",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🧵",
+    "slug": "thread",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🪡",
+    "slug": "sewing_needle",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🧶",
+    "slug": "yarn",
+    "group": "Activities"
+  },
+  {
+    "emoji": "🪢",
+    "slug": "knot",
+    "group": "Activities"
+  },
+  {
+    "emoji": "👓",
+    "slug": "glasses",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🕶️",
+    "slug": "sunglasses",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🥽",
+    "slug": "goggles",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🥼",
+    "slug": "lab_coat",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🦺",
+    "slug": "safety_vest",
+    "group": "Objects"
+  },
+  {
+    "emoji": "👔",
+    "slug": "necktie",
+    "group": "Objects"
+  },
+  {
+    "emoji": "👕",
+    "slug": "t_shirt",
+    "group": "Objects"
+  },
+  {
+    "emoji": "👖",
+    "slug": "jeans",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🧣",
+    "slug": "scarf",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🧤",
+    "slug": "gloves",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🧥",
+    "slug": "coat",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🧦",
+    "slug": "socks",
+    "group": "Objects"
+  },
+  {
+    "emoji": "👗",
+    "slug": "dress",
+    "group": "Objects"
+  },
+  {
+    "emoji": "👘",
+    "slug": "kimono",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🥻",
+    "slug": "sari",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🩱",
+    "slug": "one_piece_swimsuit",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🩲",
+    "slug": "briefs",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🩳",
+    "slug": "shorts",
+    "group": "Objects"
+  },
+  {
+    "emoji": "👙",
+    "slug": "bikini",
+    "group": "Objects"
+  },
+  {
+    "emoji": "👚",
+    "slug": "woman_s_clothes",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪭",
+    "slug": "folding_hand_fan",
+    "group": "Objects"
+  },
+  {
+    "emoji": "👛",
+    "slug": "purse",
+    "group": "Objects"
+  },
+  {
+    "emoji": "👜",
+    "slug": "handbag",
+    "group": "Objects"
+  },
+  {
+    "emoji": "👝",
+    "slug": "clutch_bag",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🛍️",
+    "slug": "shopping_bags",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🎒",
+    "slug": "backpack",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🩴",
+    "slug": "thong_sandal",
+    "group": "Objects"
+  },
+  {
+    "emoji": "👞",
+    "slug": "man_s_shoe",
+    "group": "Objects"
+  },
+  {
+    "emoji": "👟",
+    "slug": "running_shoe",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🥾",
+    "slug": "hiking_boot",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🥿",
+    "slug": "flat_shoe",
+    "group": "Objects"
+  },
+  {
+    "emoji": "👠",
+    "slug": "high_heeled_shoe",
+    "group": "Objects"
+  },
+  {
+    "emoji": "👡",
+    "slug": "woman_s_sandal",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🩰",
+    "slug": "ballet_shoes",
+    "group": "Objects"
+  },
+  {
+    "emoji": "👢",
+    "slug": "woman_s_boot",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪮",
+    "slug": "hair_pick",
+    "group": "Objects"
+  },
+  {
+    "emoji": "👑",
+    "slug": "crown",
+    "group": "Objects"
+  },
+  {
+    "emoji": "👒",
+    "slug": "woman_s_hat",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🎩",
+    "slug": "top_hat",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🎓",
+    "slug": "graduation_cap",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🧢",
+    "slug": "billed_cap",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪖",
+    "slug": "military_helmet",
+    "group": "Objects"
+  },
+  {
+    "emoji": "⛑️",
+    "slug": "rescue_worker_s_helmet",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📿",
+    "slug": "prayer_beads",
+    "group": "Objects"
+  },
+  {
+    "emoji": "💄",
+    "slug": "lipstick",
+    "group": "Objects"
+  },
+  {
+    "emoji": "💍",
+    "slug": "ring",
+    "group": "Objects"
+  },
+  {
+    "emoji": "💎",
+    "slug": "gem_stone",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🔇",
+    "slug": "muted_speaker",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🔈",
+    "slug": "speaker_low_volume",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🔉",
+    "slug": "speaker_medium_volume",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🔊",
+    "slug": "speaker_high_volume",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📢",
+    "slug": "loudspeaker",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📣",
+    "slug": "megaphone",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📯",
+    "slug": "postal_horn",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🔔",
+    "slug": "bell",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🔕",
+    "slug": "bell_with_slash",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🎼",
+    "slug": "musical_score",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🎵",
+    "slug": "musical_note",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🎶",
+    "slug": "musical_notes",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🎙️",
+    "slug": "studio_microphone",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🎚️",
+    "slug": "level_slider",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🎛️",
+    "slug": "control_knobs",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🎤",
+    "slug": "microphone",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🎧",
+    "slug": "headphone",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📻",
+    "slug": "radio",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🎷",
+    "slug": "saxophone",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪗",
+    "slug": "accordion",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🎸",
+    "slug": "guitar",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🎹",
+    "slug": "musical_keyboard",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🎺",
+    "slug": "trumpet",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🎻",
+    "slug": "violin",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪕",
+    "slug": "banjo",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🥁",
+    "slug": "drum",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪘",
+    "slug": "long_drum",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪇",
+    "slug": "maracas",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪈",
+    "slug": "flute",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪉",
+    "slug": "harp",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📱",
+    "slug": "mobile_phone",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📲",
+    "slug": "mobile_phone_with_arrow",
+    "group": "Objects"
+  },
+  {
+    "emoji": "☎️",
+    "slug": "telephone",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📞",
+    "slug": "telephone_receiver",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📟",
+    "slug": "pager",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📠",
+    "slug": "fax_machine",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🔋",
+    "slug": "battery",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪫",
+    "slug": "low_battery",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🔌",
+    "slug": "electric_plug",
+    "group": "Objects"
+  },
+  {
+    "emoji": "💻",
+    "slug": "laptop",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🖥️",
+    "slug": "desktop_computer",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🖨️",
+    "slug": "printer",
+    "group": "Objects"
+  },
+  {
+    "emoji": "⌨️",
+    "slug": "keyboard",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🖱️",
+    "slug": "computer_mouse",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🖲️",
+    "slug": "trackball",
+    "group": "Objects"
+  },
+  {
+    "emoji": "💽",
+    "slug": "computer_disk",
+    "group": "Objects"
+  },
+  {
+    "emoji": "💾",
+    "slug": "floppy_disk",
+    "group": "Objects"
+  },
+  {
+    "emoji": "💿",
+    "slug": "optical_disk",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📀",
+    "slug": "dvd",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🧮",
+    "slug": "abacus",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🎥",
+    "slug": "movie_camera",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🎞️",
+    "slug": "film_frames",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📽️",
+    "slug": "film_projector",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🎬",
+    "slug": "clapper_board",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📺",
+    "slug": "television",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📷",
+    "slug": "camera",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📸",
+    "slug": "camera_with_flash",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📹",
+    "slug": "video_camera",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📼",
+    "slug": "videocassette",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🔍",
+    "slug": "magnifying_glass_tilted_left",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🔎",
+    "slug": "magnifying_glass_tilted_right",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🕯️",
+    "slug": "candle",
+    "group": "Objects"
+  },
+  {
+    "emoji": "💡",
+    "slug": "light_bulb",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🔦",
+    "slug": "flashlight",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🏮",
+    "slug": "red_paper_lantern",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪔",
+    "slug": "diya_lamp",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📔",
+    "slug": "notebook_with_decorative_cover",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📕",
+    "slug": "closed_book",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📖",
+    "slug": "open_book",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📗",
+    "slug": "green_book",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📘",
+    "slug": "blue_book",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📙",
+    "slug": "orange_book",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📚",
+    "slug": "books",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📓",
+    "slug": "notebook",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📒",
+    "slug": "ledger",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📃",
+    "slug": "page_with_curl",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📜",
+    "slug": "scroll",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📄",
+    "slug": "page_facing_up",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📰",
+    "slug": "newspaper",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🗞️",
+    "slug": "rolled_up_newspaper",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📑",
+    "slug": "bookmark_tabs",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🔖",
+    "slug": "bookmark",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🏷️",
+    "slug": "label",
+    "group": "Objects"
+  },
+  {
+    "emoji": "💰",
+    "slug": "money_bag",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪙",
+    "slug": "coin",
+    "group": "Objects"
+  },
+  {
+    "emoji": "💴",
+    "slug": "yen_banknote",
+    "group": "Objects"
+  },
+  {
+    "emoji": "💵",
+    "slug": "dollar_banknote",
+    "group": "Objects"
+  },
+  {
+    "emoji": "💶",
+    "slug": "euro_banknote",
+    "group": "Objects"
+  },
+  {
+    "emoji": "💷",
+    "slug": "pound_banknote",
+    "group": "Objects"
+  },
+  {
+    "emoji": "💸",
+    "slug": "money_with_wings",
+    "group": "Objects"
+  },
+  {
+    "emoji": "💳",
+    "slug": "credit_card",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🧾",
+    "slug": "receipt",
+    "group": "Objects"
+  },
+  {
+    "emoji": "💹",
+    "slug": "chart_increasing_with_yen",
+    "group": "Objects"
+  },
+  {
+    "emoji": "✉️",
+    "slug": "envelope",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📧",
+    "slug": "e_mail",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📨",
+    "slug": "incoming_envelope",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📩",
+    "slug": "envelope_with_arrow",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📤",
+    "slug": "outbox_tray",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📥",
+    "slug": "inbox_tray",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📦",
+    "slug": "package",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📫",
+    "slug": "closed_mailbox_with_raised_flag",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📪",
+    "slug": "closed_mailbox_with_lowered_flag",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📬",
+    "slug": "open_mailbox_with_raised_flag",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📭",
+    "slug": "open_mailbox_with_lowered_flag",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📮",
+    "slug": "postbox",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🗳️",
+    "slug": "ballot_box_with_ballot",
+    "group": "Objects"
+  },
+  {
+    "emoji": "✏️",
+    "slug": "pencil",
+    "group": "Objects"
+  },
+  {
+    "emoji": "✒️",
+    "slug": "black_nib",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🖋️",
+    "slug": "fountain_pen",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🖊️",
+    "slug": "pen",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🖌️",
+    "slug": "paintbrush",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🖍️",
+    "slug": "crayon",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📝",
+    "slug": "memo",
+    "group": "Objects"
+  },
+  {
+    "emoji": "💼",
+    "slug": "briefcase",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📁",
+    "slug": "file_folder",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📂",
+    "slug": "open_file_folder",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🗂️",
+    "slug": "card_index_dividers",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📅",
+    "slug": "calendar",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📆",
+    "slug": "tear_off_calendar",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🗒️",
+    "slug": "spiral_notepad",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🗓️",
+    "slug": "spiral_calendar",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📇",
+    "slug": "card_index",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📈",
+    "slug": "chart_increasing",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📉",
+    "slug": "chart_decreasing",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📊",
+    "slug": "bar_chart",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📋",
+    "slug": "clipboard",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📌",
+    "slug": "pushpin",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📍",
+    "slug": "round_pushpin",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📎",
+    "slug": "paperclip",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🖇️",
+    "slug": "linked_paperclips",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📏",
+    "slug": "straight_ruler",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📐",
+    "slug": "triangular_ruler",
+    "group": "Objects"
+  },
+  {
+    "emoji": "✂️",
+    "slug": "scissors",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🗃️",
+    "slug": "card_file_box",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🗄️",
+    "slug": "file_cabinet",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🗑️",
+    "slug": "wastebasket",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🔒",
+    "slug": "locked",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🔓",
+    "slug": "unlocked",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🔏",
+    "slug": "locked_with_pen",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🔐",
+    "slug": "locked_with_key",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🔑",
+    "slug": "key",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🗝️",
+    "slug": "old_key",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🔨",
+    "slug": "hammer",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪓",
+    "slug": "axe",
+    "group": "Objects"
+  },
+  {
+    "emoji": "⛏️",
+    "slug": "pick",
+    "group": "Objects"
+  },
+  {
+    "emoji": "⚒️",
+    "slug": "hammer_and_pick",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🛠️",
+    "slug": "hammer_and_wrench",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🗡️",
+    "slug": "dagger",
+    "group": "Objects"
+  },
+  {
+    "emoji": "⚔️",
+    "slug": "crossed_swords",
+    "group": "Objects"
+  },
+  {
+    "emoji": "💣",
+    "slug": "bomb",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪃",
+    "slug": "boomerang",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🏹",
+    "slug": "bow_and_arrow",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🛡️",
+    "slug": "shield",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪚",
+    "slug": "carpentry_saw",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🔧",
+    "slug": "wrench",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪛",
+    "slug": "screwdriver",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🔩",
+    "slug": "nut_and_bolt",
+    "group": "Objects"
+  },
+  {
+    "emoji": "⚙️",
+    "slug": "gear",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🗜️",
+    "slug": "clamp",
+    "group": "Objects"
+  },
+  {
+    "emoji": "⚖️",
+    "slug": "balance_scale",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🦯",
+    "slug": "white_cane",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🔗",
+    "slug": "link",
+    "group": "Objects"
+  },
+  {
+    "emoji": "⛓️‍💥",
+    "slug": "broken_chain",
+    "group": "Objects"
+  },
+  {
+    "emoji": "⛓️",
+    "slug": "chains",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪝",
+    "slug": "hook",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🧰",
+    "slug": "toolbox",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🧲",
+    "slug": "magnet",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪜",
+    "slug": "ladder",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪏",
+    "slug": "shovel",
+    "group": "Objects"
+  },
+  {
+    "emoji": "⚗️",
+    "slug": "alembic",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🧪",
+    "slug": "test_tube",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🧫",
+    "slug": "petri_dish",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🧬",
+    "slug": "dna",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🔬",
+    "slug": "microscope",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🔭",
+    "slug": "telescope",
+    "group": "Objects"
+  },
+  {
+    "emoji": "📡",
+    "slug": "satellite_antenna",
+    "group": "Objects"
+  },
+  {
+    "emoji": "💉",
+    "slug": "syringe",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🩸",
+    "slug": "drop_of_blood",
+    "group": "Objects"
+  },
+  {
+    "emoji": "💊",
+    "slug": "pill",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🩹",
+    "slug": "adhesive_bandage",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🩼",
+    "slug": "crutch",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🩺",
+    "slug": "stethoscope",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🩻",
+    "slug": "x_ray",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🚪",
+    "slug": "door",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🛗",
+    "slug": "elevator",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪞",
+    "slug": "mirror",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪟",
+    "slug": "window",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🛏️",
+    "slug": "bed",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🛋️",
+    "slug": "couch_and_lamp",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪑",
+    "slug": "chair",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🚽",
+    "slug": "toilet",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪠",
+    "slug": "plunger",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🚿",
+    "slug": "shower",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🛁",
+    "slug": "bathtub",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪤",
+    "slug": "mouse_trap",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪒",
+    "slug": "razor",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🧴",
+    "slug": "lotion_bottle",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🧷",
+    "slug": "safety_pin",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🧹",
+    "slug": "broom",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🧺",
+    "slug": "basket",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🧻",
+    "slug": "roll_of_paper",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪣",
+    "slug": "bucket",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🧼",
+    "slug": "soap",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🫧",
+    "slug": "bubbles",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪥",
+    "slug": "toothbrush",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🧽",
+    "slug": "sponge",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🧯",
+    "slug": "fire_extinguisher",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🛒",
+    "slug": "shopping_cart",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🚬",
+    "slug": "cigarette",
+    "group": "Objects"
+  },
+  {
+    "emoji": "⚰️",
+    "slug": "coffin",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪦",
+    "slug": "headstone",
+    "group": "Objects"
+  },
+  {
+    "emoji": "⚱️",
+    "slug": "funeral_urn",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🧿",
+    "slug": "nazar_amulet",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪬",
+    "slug": "hamsa",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🗿",
+    "slug": "moai",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪧",
+    "slug": "placard",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🪪",
+    "slug": "identification_card",
+    "group": "Objects"
+  },
+  {
+    "emoji": "🏧",
+    "slug": "atm_sign",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🚮",
+    "slug": "litter_in_bin_sign",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🚰",
+    "slug": "potable_water",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "♿",
+    "slug": "wheelchair_symbol",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🚹",
+    "slug": "men_s_room",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🚺",
+    "slug": "women_s_room",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🚻",
+    "slug": "restroom",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🚼",
+    "slug": "baby_symbol",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🚾",
+    "slug": "water_closet",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🛂",
+    "slug": "passport_control",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🛃",
+    "slug": "customs",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🛄",
+    "slug": "baggage_claim",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🛅",
+    "slug": "left_luggage",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⚠️",
+    "slug": "warning",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🚸",
+    "slug": "children_crossing",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⛔",
+    "slug": "no_entry",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🚫",
+    "slug": "prohibited",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🚳",
+    "slug": "no_bicycles",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🚭",
+    "slug": "no_smoking",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🚯",
+    "slug": "no_littering",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🚱",
+    "slug": "non_potable_water",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🚷",
+    "slug": "no_pedestrians",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "📵",
+    "slug": "no_mobile_phones",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔞",
+    "slug": "no_one_under_eighteen",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "☢️",
+    "slug": "radioactive",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "☣️",
+    "slug": "biohazard",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⬆️",
+    "slug": "up_arrow",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "↗️",
+    "slug": "up_right_arrow",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "➡️",
+    "slug": "right_arrow",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "↘️",
+    "slug": "down_right_arrow",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⬇️",
+    "slug": "down_arrow",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "↙️",
+    "slug": "down_left_arrow",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⬅️",
+    "slug": "left_arrow",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "↖️",
+    "slug": "up_left_arrow",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "↕️",
+    "slug": "up_down_arrow",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "↔️",
+    "slug": "left_right_arrow",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "↩️",
+    "slug": "right_arrow_curving_left",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "↪️",
+    "slug": "left_arrow_curving_right",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⤴️",
+    "slug": "right_arrow_curving_up",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⤵️",
+    "slug": "right_arrow_curving_down",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔃",
+    "slug": "clockwise_vertical_arrows",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔄",
+    "slug": "counterclockwise_arrows_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔙",
+    "slug": "back_arrow",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔚",
+    "slug": "end_arrow",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔛",
+    "slug": "on_arrow",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔜",
+    "slug": "soon_arrow",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔝",
+    "slug": "top_arrow",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🛐",
+    "slug": "place_of_worship",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⚛️",
+    "slug": "atom_symbol",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🕉️",
+    "slug": "om",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "✡️",
+    "slug": "star_of_david",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "☸️",
+    "slug": "wheel_of_dharma",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "☯️",
+    "slug": "yin_yang",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "✝️",
+    "slug": "latin_cross",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "☦️",
+    "slug": "orthodox_cross",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "☪️",
+    "slug": "star_and_crescent",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "☮️",
+    "slug": "peace_symbol",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🕎",
+    "slug": "menorah",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔯",
+    "slug": "dotted_six_pointed_star",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🪯",
+    "slug": "khanda",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "♈",
+    "slug": "aries",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "♉",
+    "slug": "taurus",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "♊",
+    "slug": "gemini",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "♋",
+    "slug": "cancer",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "♌",
+    "slug": "leo",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "♍",
+    "slug": "virgo",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "♎",
+    "slug": "libra",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "♏",
+    "slug": "scorpio",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "♐",
+    "slug": "sagittarius",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "♑",
+    "slug": "capricorn",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "♒",
+    "slug": "aquarius",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "♓",
+    "slug": "pisces",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⛎",
+    "slug": "ophiuchus",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔀",
+    "slug": "shuffle_tracks_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔁",
+    "slug": "repeat_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔂",
+    "slug": "repeat_single_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "▶️",
+    "slug": "play_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⏩",
+    "slug": "fast_forward_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⏭️",
+    "slug": "next_track_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⏯️",
+    "slug": "play_or_pause_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "◀️",
+    "slug": "reverse_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⏪",
+    "slug": "fast_reverse_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⏮️",
+    "slug": "last_track_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔼",
+    "slug": "upwards_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⏫",
+    "slug": "fast_up_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔽",
+    "slug": "downwards_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⏬",
+    "slug": "fast_down_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⏸️",
+    "slug": "pause_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⏹️",
+    "slug": "stop_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⏺️",
+    "slug": "record_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⏏️",
+    "slug": "eject_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🎦",
+    "slug": "cinema",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔅",
+    "slug": "dim_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔆",
+    "slug": "bright_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "📶",
+    "slug": "antenna_bars",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🛜",
+    "slug": "wireless",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "📳",
+    "slug": "vibration_mode",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "📴",
+    "slug": "mobile_phone_off",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "♀️",
+    "slug": "female_sign",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "♂️",
+    "slug": "male_sign",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⚧️",
+    "slug": "transgender_symbol",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "✖️",
+    "slug": "multiply",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "➕",
+    "slug": "plus",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "➖",
+    "slug": "minus",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "➗",
+    "slug": "divide",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🟰",
+    "slug": "heavy_equals_sign",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "♾️",
+    "slug": "infinity",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "‼️",
+    "slug": "double_exclamation_mark",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⁉️",
+    "slug": "exclamation_question_mark",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "❓",
+    "slug": "red_question_mark",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "❔",
+    "slug": "white_question_mark",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "❕",
+    "slug": "white_exclamation_mark",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "❗",
+    "slug": "red_exclamation_mark",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "〰️",
+    "slug": "wavy_dash",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "💱",
+    "slug": "currency_exchange",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "💲",
+    "slug": "heavy_dollar_sign",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⚕️",
+    "slug": "medical_symbol",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "♻️",
+    "slug": "recycling_symbol",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⚜️",
+    "slug": "fleur_de_lis",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔱",
+    "slug": "trident_emblem",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "📛",
+    "slug": "name_badge",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔰",
+    "slug": "japanese_symbol_for_beginner",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⭕",
+    "slug": "hollow_red_circle",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "✅",
+    "slug": "check_mark_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "☑️",
+    "slug": "check_box_with_check",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "✔️",
+    "slug": "check_mark",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "❌",
+    "slug": "cross_mark",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "❎",
+    "slug": "cross_mark_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "➰",
+    "slug": "curly_loop",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "➿",
+    "slug": "double_curly_loop",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "〽️",
+    "slug": "part_alternation_mark",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "✳️",
+    "slug": "eight_spoked_asterisk",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "✴️",
+    "slug": "eight_pointed_star",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "❇️",
+    "slug": "sparkle",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "©️",
+    "slug": "copyright",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "®️",
+    "slug": "registered",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "™️",
+    "slug": "trade_mark",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🫟",
+    "slug": "splatter",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "#️⃣",
+    "slug": "keycap_number_sign",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "*️⃣",
+    "slug": "keycap_asterisk",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "0️⃣",
+    "slug": "keycap_0",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "1️⃣",
+    "slug": "keycap_1",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "2️⃣",
+    "slug": "keycap_2",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "3️⃣",
+    "slug": "keycap_3",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "4️⃣",
+    "slug": "keycap_4",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "5️⃣",
+    "slug": "keycap_5",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "6️⃣",
+    "slug": "keycap_6",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "7️⃣",
+    "slug": "keycap_7",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "8️⃣",
+    "slug": "keycap_8",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "9️⃣",
+    "slug": "keycap_9",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔟",
+    "slug": "keycap_10",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔠",
+    "slug": "input_latin_uppercase",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔡",
+    "slug": "input_latin_lowercase",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔢",
+    "slug": "input_numbers",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔣",
+    "slug": "input_symbols",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔤",
+    "slug": "input_latin_letters",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🅰️",
+    "slug": "a_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🆎",
+    "slug": "ab_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🅱️",
+    "slug": "b_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🆑",
+    "slug": "cl_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🆒",
+    "slug": "cool_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🆓",
+    "slug": "free_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "ℹ️",
+    "slug": "information",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🆔",
+    "slug": "id_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "Ⓜ️",
+    "slug": "circled_m",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🆕",
+    "slug": "new_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🆖",
+    "slug": "ng_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🅾️",
+    "slug": "o_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🆗",
+    "slug": "ok_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🅿️",
+    "slug": "p_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🆘",
+    "slug": "sos_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🆙",
+    "slug": "up_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🆚",
+    "slug": "vs_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🈁",
+    "slug": "japanese_here_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🈂️",
+    "slug": "japanese_service_charge_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🈷️",
+    "slug": "japanese_monthly_amount_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🈶",
+    "slug": "japanese_not_free_of_charge_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🈯",
+    "slug": "japanese_reserved_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🉐",
+    "slug": "japanese_bargain_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🈹",
+    "slug": "japanese_discount_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🈚",
+    "slug": "japanese_free_of_charge_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🈲",
+    "slug": "japanese_prohibited_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🉑",
+    "slug": "japanese_acceptable_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🈸",
+    "slug": "japanese_application_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🈴",
+    "slug": "japanese_passing_grade_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🈳",
+    "slug": "japanese_vacancy_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "㊗️",
+    "slug": "japanese_congratulations_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "㊙️",
+    "slug": "japanese_secret_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🈺",
+    "slug": "japanese_open_for_business_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🈵",
+    "slug": "japanese_no_vacancy_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔴",
+    "slug": "red_circle",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🟠",
+    "slug": "orange_circle",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🟡",
+    "slug": "yellow_circle",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🟢",
+    "slug": "green_circle",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔵",
+    "slug": "blue_circle",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🟣",
+    "slug": "purple_circle",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🟤",
+    "slug": "brown_circle",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⚫",
+    "slug": "black_circle",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⚪",
+    "slug": "white_circle",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🟥",
+    "slug": "red_square",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🟧",
+    "slug": "orange_square",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🟨",
+    "slug": "yellow_square",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🟩",
+    "slug": "green_square",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🟦",
+    "slug": "blue_square",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🟪",
+    "slug": "purple_square",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🟫",
+    "slug": "brown_square",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⬛",
+    "slug": "black_large_square",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "⬜",
+    "slug": "white_large_square",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "◼️",
+    "slug": "black_medium_square",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "◻️",
+    "slug": "white_medium_square",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "◾",
+    "slug": "black_medium_small_square",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "◽",
+    "slug": "white_medium_small_square",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "▪️",
+    "slug": "black_small_square",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "▫️",
+    "slug": "white_small_square",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔶",
+    "slug": "large_orange_diamond",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔷",
+    "slug": "large_blue_diamond",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔸",
+    "slug": "small_orange_diamond",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔹",
+    "slug": "small_blue_diamond",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔺",
+    "slug": "red_triangle_pointed_up",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔻",
+    "slug": "red_triangle_pointed_down",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "💠",
+    "slug": "diamond_with_a_dot",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔘",
+    "slug": "radio_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔳",
+    "slug": "white_square_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🔲",
+    "slug": "black_square_button",
+    "group": "Symbols"
+  },
+  {
+    "emoji": "🏁",
+    "slug": "chequered_flag",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🚩",
+    "slug": "triangular_flag",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🎌",
+    "slug": "crossed_flags",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🏴",
+    "slug": "black_flag",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🏳️",
+    "slug": "white_flag",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🏳️‍🌈",
+    "slug": "rainbow_flag",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🏳️‍⚧️",
+    "slug": "transgender_flag",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🏴‍☠️",
+    "slug": "pirate_flag",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇦🇨",
+    "slug": "flag_ascension_island",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇦🇩",
+    "slug": "flag_andorra",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇦🇪",
+    "slug": "flag_united_arab_emirates",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇦🇫",
+    "slug": "flag_afghanistan",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇦🇬",
+    "slug": "flag_antigua_barbuda",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇦🇮",
+    "slug": "flag_anguilla",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇦🇱",
+    "slug": "flag_albania",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇦🇲",
+    "slug": "flag_armenia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇦🇴",
+    "slug": "flag_angola",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇦🇶",
+    "slug": "flag_antarctica",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇦🇷",
+    "slug": "flag_argentina",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇦🇸",
+    "slug": "flag_american_samoa",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇦🇹",
+    "slug": "flag_austria",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇦🇺",
+    "slug": "flag_australia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇦🇼",
+    "slug": "flag_aruba",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇦🇽",
+    "slug": "flag_aland_islands",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇦🇿",
+    "slug": "flag_azerbaijan",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇧🇦",
+    "slug": "flag_bosnia_herzegovina",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇧🇧",
+    "slug": "flag_barbados",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇧🇩",
+    "slug": "flag_bangladesh",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇧🇪",
+    "slug": "flag_belgium",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇧🇫",
+    "slug": "flag_burkina_faso",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇧🇬",
+    "slug": "flag_bulgaria",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇧🇭",
+    "slug": "flag_bahrain",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇧🇮",
+    "slug": "flag_burundi",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇧🇯",
+    "slug": "flag_benin",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇧🇱",
+    "slug": "flag_st_barthelemy",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇧🇲",
+    "slug": "flag_bermuda",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇧🇳",
+    "slug": "flag_brunei",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇧🇴",
+    "slug": "flag_bolivia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇧🇶",
+    "slug": "flag_caribbean_netherlands",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇧🇷",
+    "slug": "flag_brazil",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇧🇸",
+    "slug": "flag_bahamas",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇧🇹",
+    "slug": "flag_bhutan",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇧🇻",
+    "slug": "flag_bouvet_island",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇧🇼",
+    "slug": "flag_botswana",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇧🇾",
+    "slug": "flag_belarus",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇧🇿",
+    "slug": "flag_belize",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇨🇦",
+    "slug": "flag_canada",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇨🇨",
+    "slug": "flag_cocos_islands",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇨🇩",
+    "slug": "flag_congo_kinshasa",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇨🇫",
+    "slug": "flag_central_african_republic",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇨🇬",
+    "slug": "flag_congo_brazzaville",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇨🇭",
+    "slug": "flag_switzerland",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇨🇮",
+    "slug": "flag_cote_d_ivoire",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇨🇰",
+    "slug": "flag_cook_islands",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇨🇱",
+    "slug": "flag_chile",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇨🇲",
+    "slug": "flag_cameroon",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇨🇳",
+    "slug": "flag_china",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇨🇴",
+    "slug": "flag_colombia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇨🇵",
+    "slug": "flag_clipperton_island",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇨🇶",
+    "slug": "flag_sark",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇨🇷",
+    "slug": "flag_costa_rica",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇨🇺",
+    "slug": "flag_cuba",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇨🇻",
+    "slug": "flag_cape_verde",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇨🇼",
+    "slug": "flag_curacao",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇨🇽",
+    "slug": "flag_christmas_island",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇨🇾",
+    "slug": "flag_cyprus",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇨🇿",
+    "slug": "flag_czechia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇩🇪",
+    "slug": "flag_germany",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇩🇬",
+    "slug": "flag_diego_garcia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇩🇯",
+    "slug": "flag_djibouti",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇩🇰",
+    "slug": "flag_denmark",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇩🇲",
+    "slug": "flag_dominica",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇩🇴",
+    "slug": "flag_dominican_republic",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇩🇿",
+    "slug": "flag_algeria",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇪🇦",
+    "slug": "flag_ceuta_melilla",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇪🇨",
+    "slug": "flag_ecuador",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇪🇪",
+    "slug": "flag_estonia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇪🇬",
+    "slug": "flag_egypt",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇪🇭",
+    "slug": "flag_western_sahara",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇪🇷",
+    "slug": "flag_eritrea",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇪🇸",
+    "slug": "flag_spain",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇪🇹",
+    "slug": "flag_ethiopia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇪🇺",
+    "slug": "flag_european_union",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇫🇮",
+    "slug": "flag_finland",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇫🇯",
+    "slug": "flag_fiji",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇫🇰",
+    "slug": "flag_falkland_islands",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇫🇲",
+    "slug": "flag_micronesia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇫🇴",
+    "slug": "flag_faroe_islands",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇫🇷",
+    "slug": "flag_france",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇬🇦",
+    "slug": "flag_gabon",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇬🇧",
+    "slug": "flag_united_kingdom",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇬🇩",
+    "slug": "flag_grenada",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇬🇪",
+    "slug": "flag_georgia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇬🇫",
+    "slug": "flag_french_guiana",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇬🇬",
+    "slug": "flag_guernsey",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇬🇭",
+    "slug": "flag_ghana",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇬🇮",
+    "slug": "flag_gibraltar",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇬🇱",
+    "slug": "flag_greenland",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇬🇲",
+    "slug": "flag_gambia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇬🇳",
+    "slug": "flag_guinea",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇬🇵",
+    "slug": "flag_guadeloupe",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇬🇶",
+    "slug": "flag_equatorial_guinea",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇬🇷",
+    "slug": "flag_greece",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇬🇸",
+    "slug": "flag_south_georgia_south_sandwich_islands",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇬🇹",
+    "slug": "flag_guatemala",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇬🇺",
+    "slug": "flag_guam",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇬🇼",
+    "slug": "flag_guinea_bissau",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇬🇾",
+    "slug": "flag_guyana",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇭🇰",
+    "slug": "flag_hong_kong_sar_china",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇭🇲",
+    "slug": "flag_heard_mcdonald_islands",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇭🇳",
+    "slug": "flag_honduras",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇭🇷",
+    "slug": "flag_croatia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇭🇹",
+    "slug": "flag_haiti",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇭🇺",
+    "slug": "flag_hungary",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇮🇨",
+    "slug": "flag_canary_islands",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇮🇩",
+    "slug": "flag_indonesia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇮🇪",
+    "slug": "flag_ireland",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇮🇱",
+    "slug": "flag_israel",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇮🇲",
+    "slug": "flag_isle_of_man",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇮🇳",
+    "slug": "flag_india",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇮🇴",
+    "slug": "flag_british_indian_ocean_territory",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇮🇶",
+    "slug": "flag_iraq",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇮🇷",
+    "slug": "flag_iran",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇮🇸",
+    "slug": "flag_iceland",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇮🇹",
+    "slug": "flag_italy",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇯🇪",
+    "slug": "flag_jersey",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇯🇲",
+    "slug": "flag_jamaica",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇯🇴",
+    "slug": "flag_jordan",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇯🇵",
+    "slug": "flag_japan",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇰🇪",
+    "slug": "flag_kenya",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇰🇬",
+    "slug": "flag_kyrgyzstan",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇰🇭",
+    "slug": "flag_cambodia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇰🇮",
+    "slug": "flag_kiribati",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇰🇲",
+    "slug": "flag_comoros",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇰🇳",
+    "slug": "flag_st_kitts_nevis",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇰🇵",
+    "slug": "flag_north_korea",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇰🇷",
+    "slug": "flag_south_korea",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇰🇼",
+    "slug": "flag_kuwait",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇰🇾",
+    "slug": "flag_cayman_islands",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇰🇿",
+    "slug": "flag_kazakhstan",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇱🇦",
+    "slug": "flag_laos",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇱🇧",
+    "slug": "flag_lebanon",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇱🇨",
+    "slug": "flag_st_lucia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇱🇮",
+    "slug": "flag_liechtenstein",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇱🇰",
+    "slug": "flag_sri_lanka",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇱🇷",
+    "slug": "flag_liberia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇱🇸",
+    "slug": "flag_lesotho",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇱🇹",
+    "slug": "flag_lithuania",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇱🇺",
+    "slug": "flag_luxembourg",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇱🇻",
+    "slug": "flag_latvia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇱🇾",
+    "slug": "flag_libya",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇲🇦",
+    "slug": "flag_morocco",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇲🇨",
+    "slug": "flag_monaco",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇲🇩",
+    "slug": "flag_moldova",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇲🇪",
+    "slug": "flag_montenegro",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇲🇫",
+    "slug": "flag_st_martin",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇲🇬",
+    "slug": "flag_madagascar",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇲🇭",
+    "slug": "flag_marshall_islands",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇲🇰",
+    "slug": "flag_north_macedonia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇲🇱",
+    "slug": "flag_mali",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇲🇲",
+    "slug": "flag_myanmar",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇲🇳",
+    "slug": "flag_mongolia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇲🇴",
+    "slug": "flag_macao_sar_china",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇲🇵",
+    "slug": "flag_northern_mariana_islands",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇲🇶",
+    "slug": "flag_martinique",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇲🇷",
+    "slug": "flag_mauritania",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇲🇸",
+    "slug": "flag_montserrat",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇲🇹",
+    "slug": "flag_malta",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇲🇺",
+    "slug": "flag_mauritius",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇲🇻",
+    "slug": "flag_maldives",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇲🇼",
+    "slug": "flag_malawi",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇲🇽",
+    "slug": "flag_mexico",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇲🇾",
+    "slug": "flag_malaysia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇲🇿",
+    "slug": "flag_mozambique",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇳🇦",
+    "slug": "flag_namibia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇳🇨",
+    "slug": "flag_new_caledonia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇳🇪",
+    "slug": "flag_niger",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇳🇫",
+    "slug": "flag_norfolk_island",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇳🇬",
+    "slug": "flag_nigeria",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇳🇮",
+    "slug": "flag_nicaragua",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇳🇱",
+    "slug": "flag_netherlands",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇳🇴",
+    "slug": "flag_norway",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇳🇵",
+    "slug": "flag_nepal",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇳🇷",
+    "slug": "flag_nauru",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇳🇺",
+    "slug": "flag_niue",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇳🇿",
+    "slug": "flag_new_zealand",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇴🇲",
+    "slug": "flag_oman",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇵🇦",
+    "slug": "flag_panama",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇵🇪",
+    "slug": "flag_peru",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇵🇫",
+    "slug": "flag_french_polynesia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇵🇬",
+    "slug": "flag_papua_new_guinea",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇵🇭",
+    "slug": "flag_philippines",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇵🇰",
+    "slug": "flag_pakistan",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇵🇱",
+    "slug": "flag_poland",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇵🇲",
+    "slug": "flag_st_pierre_miquelon",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇵🇳",
+    "slug": "flag_pitcairn_islands",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇵🇷",
+    "slug": "flag_puerto_rico",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇵🇸",
+    "slug": "flag_palestinian_territories",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇵🇹",
+    "slug": "flag_portugal",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇵🇼",
+    "slug": "flag_palau",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇵🇾",
+    "slug": "flag_paraguay",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇶🇦",
+    "slug": "flag_qatar",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇷🇪",
+    "slug": "flag_reunion",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇷🇴",
+    "slug": "flag_romania",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇷🇸",
+    "slug": "flag_serbia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇷🇺",
+    "slug": "flag_russia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇷🇼",
+    "slug": "flag_rwanda",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇸🇦",
+    "slug": "flag_saudi_arabia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇸🇧",
+    "slug": "flag_solomon_islands",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇸🇨",
+    "slug": "flag_seychelles",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇸🇩",
+    "slug": "flag_sudan",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇸🇪",
+    "slug": "flag_sweden",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇸🇬",
+    "slug": "flag_singapore",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇸🇭",
+    "slug": "flag_st_helena",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇸🇮",
+    "slug": "flag_slovenia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇸🇯",
+    "slug": "flag_svalbard_jan_mayen",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇸🇰",
+    "slug": "flag_slovakia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇸🇱",
+    "slug": "flag_sierra_leone",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇸🇲",
+    "slug": "flag_san_marino",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇸🇳",
+    "slug": "flag_senegal",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇸🇴",
+    "slug": "flag_somalia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇸🇷",
+    "slug": "flag_suriname",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇸🇸",
+    "slug": "flag_south_sudan",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇸🇹",
+    "slug": "flag_sao_tome_principe",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇸🇻",
+    "slug": "flag_el_salvador",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇸🇽",
+    "slug": "flag_sint_maarten",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇸🇾",
+    "slug": "flag_syria",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇸🇿",
+    "slug": "flag_eswatini",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇹🇦",
+    "slug": "flag_tristan_da_cunha",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇹🇨",
+    "slug": "flag_turks_caicos_islands",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇹🇩",
+    "slug": "flag_chad",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇹🇫",
+    "slug": "flag_french_southern_territories",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇹🇬",
+    "slug": "flag_togo",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇹🇭",
+    "slug": "flag_thailand",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇹🇯",
+    "slug": "flag_tajikistan",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇹🇰",
+    "slug": "flag_tokelau",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇹🇱",
+    "slug": "flag_timor_leste",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇹🇲",
+    "slug": "flag_turkmenistan",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇹🇳",
+    "slug": "flag_tunisia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇹🇴",
+    "slug": "flag_tonga",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇹🇷",
+    "slug": "flag_turkiye",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇹🇹",
+    "slug": "flag_trinidad_tobago",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇹🇻",
+    "slug": "flag_tuvalu",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇹🇼",
+    "slug": "flag_taiwan",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇹🇿",
+    "slug": "flag_tanzania",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇺🇦",
+    "slug": "flag_ukraine",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇺🇬",
+    "slug": "flag_uganda",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇺🇲",
+    "slug": "flag_u_s_outlying_islands",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇺🇳",
+    "slug": "flag_united_nations",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇺🇸",
+    "slug": "flag_united_states",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇺🇾",
+    "slug": "flag_uruguay",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇺🇿",
+    "slug": "flag_uzbekistan",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇻🇦",
+    "slug": "flag_vatican_city",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇻🇨",
+    "slug": "flag_st_vincent_grenadines",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇻🇪",
+    "slug": "flag_venezuela",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇻🇬",
+    "slug": "flag_british_virgin_islands",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇻🇮",
+    "slug": "flag_u_s_virgin_islands",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇻🇳",
+    "slug": "flag_vietnam",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇻🇺",
+    "slug": "flag_vanuatu",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇼🇫",
+    "slug": "flag_wallis_futuna",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇼🇸",
+    "slug": "flag_samoa",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇽🇰",
+    "slug": "flag_kosovo",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇾🇪",
+    "slug": "flag_yemen",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇾🇹",
+    "slug": "flag_mayotte",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇿🇦",
+    "slug": "flag_south_africa",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇿🇲",
+    "slug": "flag_zambia",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🇿🇼",
+    "slug": "flag_zimbabwe",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "slug": "flag_england",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "slug": "flag_scotland",
+    "group": "Flags"
+  },
+  {
+    "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "slug": "flag_wales",
+    "group": "Flags"
+  }
+]
