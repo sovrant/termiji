@@ -15,3 +15,8 @@
 ## Video example
 https://github.com/user-attachments/assets/6ba0f6fa-bf21-4267-83aa-1f538cc04558
 
+## Features to add in the future
+- Adding more emoji columns based on terminal size
+- Color customization
+- Category of recently used and favorite emojis
+
