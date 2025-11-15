@@ -13,5 +13,5 @@
     ./target/release/termiji
     ```
 ## Video example
-https://github.com/user-attachments/assets/c9097b4c-52f7-49dc-82e6-ab607835e445
+https://github.com/user-attachments/assets/6ba0f6fa-bf21-4267-83aa-1f538cc04558
 
